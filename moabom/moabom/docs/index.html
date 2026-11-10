@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>모아봄 · 대외활동 공고 모음</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#f6f4ef;--card:#fff;--ink:#1d1b16;--muted:#6f6a5f;--line:#e6e1d6;--accent:#ff5a36}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:'Noto Sans KR',system-ui,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+  .wrap{max-width:980px;margin:0 auto;padding:20px 16px 80px}
+  .logo{font-weight:900;font-size:24px;letter-spacing:-.5px}
+  .logo span{color:var(--accent)}
+  .sub{color:var(--muted);font-size:13px;margin:4px 0 16px}
+  .warn{background:#fff3ee;border:1px solid #ffd2c4;border-radius:12px;padding:10px 14px;font-size:13px;color:#8a3a22;margin-bottom:14px}
+  .search{display:flex;gap:8px;margin-bottom:12px}
+  .search input{flex:1;min-width:0;border:1px solid var(--line);border-radius:12px;padding:12px 14px;font:inherit;font-size:15px;background:#fff}
+  .search select{border:1px solid var(--line);border-radius:12px;padding:0 10px;font:inherit;font-size:14px;background:#fff}
+  .chips{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;margin-bottom:12px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{flex:none;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font:inherit;font-size:14px;cursor:pointer;font-weight:500;color:var(--ink)}
+  .chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .meta-row{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--muted);margin-bottom:10px;gap:8px;flex-wrap:wrap}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:9px}
+  .top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+  .tags{display:flex;gap:5px;flex-wrap:wrap}
+  .tag{font-size:12px;font-weight:700;padding:3px 8px;border-radius:6px;background:#f0ede6;color:var(--muted)}
+  .tag.new{background:var(--accent);color:#fff}
+  .tag.ct{background:#eef3ff;color:#3155b5}
+  .dday{font-size:13px;font-weight:900;white-space:nowrap}
+  .dday.hot{color:var(--accent)}
+  .title{font-size:16px;font-weight:700;line-height:1.4;margin:0;word-break:keep-all}
+  .org{font-size:13px;color:var(--muted)}
+  .info{display:flex;flex-wrap:wrap;gap:6px}
+  .info span{font-size:12px;background:#faf8f3;border:1px solid var(--line);padding:3px 8px;border-radius:6px}
+  .bottom{display:flex;justify-content:space-between;align-items:center;margin-top:auto}
+  .bottom a{font-size:13px;font-weight:700;color:var(--ink);text-decoration:none;border-bottom:2px solid var(--accent)}
+  .src{font-size:12px;color:var(--muted)}
+  .star{background:none;border:0;font-size:20px;cursor:pointer;line-height:1;color:#c9c2b2;padding:0 0 0 8px}
+  .star.on{color:#f5a623}
+  .empty{text-align:center;color:var(--muted);padding:60px 0;grid-column:1/-1}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="logo">모아<span>봄</span></div>
+  <p class="sub" id="updated">불러오는 중…</p>
+  <div id="warn"></div>
+
+  <div class="search">
+    <input id="q" type="search" placeholder="회사명, 직무, 키워드 검색">
+    <select id="sort">
+      <option value="deadline">마감임박순</option>
+      <option value="new">새로 올라온 순</option>
+    </select>
+  </div>
+  <div class="chips" id="chips"></div>
+  <div class="meta-row">
+    <span id="count"></span>
+    <span id="srcFilter"></span>
+  </div>
+  <div class="grid" id="list"></div>
+</div>
+
+<script>
+const TYPES = ['인턴','알바','대외활동','서포터즈','공모전'];
+const store = {
+  get(k,f){ try{ return JSON.parse(localStorage.getItem(k)) ?? f; }catch(e){ return f; } },
+  set(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} }
+};
+let stars = new Set(store.get('moa_stars',[]));
+let state = {chip: store.get('moa_chip','전체'), q:'', sort:'deadline'};
+let POSTS = [];
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const todayStr = () => { const d=new Date(); d.setMinutes(d.getMinutes()-d.getTimezoneOffset()); return d.toISOString().slice(0,10); };
+const daysBetween = (a,b) => Math.round((new Date(b+'T00:00:00')-new Date(a+'T00:00:00'))/86400000);
+
+function renderChips(){
+  const all=['전체','🆕 새 공고','🎬 콘텐츠','⭐ 관심',...TYPES];
+  $('#chips').innerHTML = all.map(c=>`<button class="chip ${state.chip===c?'on':''}" data-c="${c}">${c}</button>`).join('');
+}
+
+function render(){
+  const t=todayStr(), q=state.q.trim().toLowerCase();
+  let posts = POSTS.filter(p=>{
+    if(p.deadline && p.deadline < t) return false;
+    const c=state.chip;
+    if(c==='🆕 새 공고' && daysBetween(p.first_seen,t)>1) return false;
+    if(c==='🎬 콘텐츠' && !p.content) return false;
+    if(c==='⭐ 관심' && !stars.has(p.id)) return false;
+    if(TYPES.includes(c) && p.type!==c) return false;
+    if(q && !(p.title+' '+p.org+' '+p.location+' '+p.type).toLowerCase().includes(q)) return false;
+    return true;
+  });
+  posts.sort((a,b)=> state.sort==='new'
+    ? (b.first_seen||'').localeCompare(a.first_seen||'')
+    : (!a.deadline)-(!b.deadline) || (a.deadline||'').localeCompare(b.deadline||''));
+
+  $('#count').textContent = `공고 ${posts.length}개`;
+  $('#list').innerHTML = posts.length ? posts.map(p=>{
+    const d = p.deadline ? daysBetween(t,p.deadline) : null;
+    const label = d===null ? '상시' : d===0 ? 'D-DAY' : `D-${d}`;
+    const isNew = daysBetween(p.first_seen,t) <= 1;
+    return `<article class="card">
+      <div class="top">
+        <div class="tags">
+          ${isNew?'<span class="tag new">NEW</span>':''}
+          <span class="tag">${esc(p.type)}</span>
+          ${p.content?'<span class="tag ct">콘텐츠</span>':''}
+        </div>
+        <span class="dday ${d!==null&&d<=3?'hot':''}">${label}</span>
+      </div>
+      <h3 class="title">${esc(p.title)}</h3>
+      <div class="org">${esc(p.org)}${p.deadline?` · ~${p.deadline.slice(5).replace('-','/')}`:''}</div>
+      ${(p.location||p.pay)?`<div class="info">${p.location?`<span>📍 ${esc(p.location)}</span>`:''}${p.pay?`<span>💰 ${esc(p.pay)}</span>`:''}</div>`:''}
+      <div class="bottom">
+        <a href="${esc(p.url)}" target="_blank" rel="noopener">공고 보기 →</a>
+        <span><span class="src">${esc(p.source)}</span><button class="star ${stars.has(p.id)?'on':''}" data-star="${esc(p.id)}" aria-label="관심 공고">★</button></span>
+      </div>
+    </article>`;
+  }).join('') : `<div class="empty">조건에 맞는 공고가 없어요</div>`;
+}
+
+$('#chips').onclick=e=>{const c=e.target.dataset.c; if(!c)return; state.chip=c; store.set('moa_chip',c); renderChips(); render();};
+$('#q').oninput=e=>{state.q=e.target.value; render();};
+$('#sort').onchange=e=>{state.sort=e.target.value; render();};
+$('#list').onclick=e=>{
+  const s=e.target.dataset.star; if(!s) return;
+  stars.has(s)?stars.delete(s):stars.add(s); store.set('moa_stars',[...stars]); render();
+};
+
+fetch('posts.json',{cache:'no-store'}).then(r=>r.json()).then(data=>{
+  POSTS = data.posts||[];
+  const u = data.updated_at ? new Date(data.updated_at) : null;
+  $('#updated').textContent = u ? `마지막 업데이트 ${u.toLocaleString('ko-KR',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})}` : '';
+  const bad = Object.entries(data.sources||{}).filter(([,s])=>!s.ok);
+  if(bad.length) $('#warn').innerHTML = `<div class="warn">⚠ 이번 수집에서 실패: ${bad.map(([n,s])=>`<b>${esc(n)}</b> (${esc(s.error)})`).join(', ')}<br>실패한 곳은 지난번 공고를 그대로 보여주고 있어요.</div>`;
+  renderChips(); render();
+}).catch(()=>{ $('#updated').textContent='posts.json을 못 읽었어요. 크롤러를 한 번 실행해주세요.'; });
+</script>
+</body>
+</html>
