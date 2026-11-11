@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:42+09:00",
+ "updated_at": "2026-11-11T10:32+09:00",
  "sources": {
   "사람인": {
    "ok": false,
@@ -172,6 +172,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363501",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "수협 X 줍는사람들 | 해양환경 보호 프로젝트",
+   "org": "줍는사람들",
+   "url": "https://linkareer.com/activity/363501",
+   "deadline": "2026-11-12",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:362879",
    "source": "링커리어",
    "type": "서포터즈",
@@ -221,19 +234,6 @@
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362395",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[크림(KREAM)] 입점 브랜드 마케팅 체험형 인턴 모집",
-   "org": "크림(KREAM)",
-   "url": "https://linkareer.com/activity/362395",
-   "deadline": "2026-11-12",
-   "location": "",
-   "pay": "",
-   "content": true,
    "first_seen": "2026-11-11"
   },
   {
@@ -536,19 +536,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362651",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "Whatcha Doing? [영어회화 & 문화 직관 동아리] 신입부원 모집",
-   "org": "왓챠두잉",
-   "url": "https://linkareer.com/activity/362651",
-   "deadline": "2026-11-14",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363175",
    "source": "링커리어",
    "type": "대외활동",
@@ -627,6 +614,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363504",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "사진 출사/편집 동아리 Prologue 부원 모집",
+   "org": "프롤로그",
+   "url": "https://linkareer.com/activity/363504",
+   "deadline": "2026-11-15",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:363287",
    "source": "링커리어",
    "type": "서포터즈",
@@ -650,19 +650,6 @@
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362659",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "콘텐츠 제작 & 공모전 크루 \"PLOT\" 크루원 모집",
-   "org": "PLOT",
-   "url": "https://linkareer.com/activity/362659",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": true,
    "first_seen": "2026-11-11"
   },
   {
@@ -741,6 +728,19 @@
    "location": "",
    "pay": "",
    "content": true,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363543",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[EY한영] 전략·재무자문부문 TRS(Turnaround & Restructuring Services)팀 단기인턴",
+   "org": "EY한영",
+   "url": "https://linkareer.com/activity/363543",
+   "deadline": "2026-11-15",
+   "location": "",
+   "pay": "",
+   "content": false,
    "first_seen": "2026-11-11"
   },
   {
@@ -874,6 +874,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363292",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "셀카 한 장으로 4주 피부 챌린지 — 루아 30명 모집 (완주 시 신세계 상품권 2만 원)",
+   "org": "주식회사 누(NOU)",
+   "url": "https://linkareer.com/activity/363292",
+   "deadline": "2026-11-16",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:362940",
    "source": "링커리어",
    "type": "대외활동",
@@ -893,19 +906,6 @@
    "title": "[컴투스] 멘토링스쿨 4기 모집 (~11/16 오전 10시)",
    "org": "컴투스",
    "url": "https://linkareer.com/activity/362722",
-   "deadline": "2026-11-16",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362202",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "부천시 봉사단원 모집 <12월의 청년 히어로를 찾아라!>",
-   "org": "부천시 청년청소년과",
-   "url": "https://linkareer.com/activity/362202",
    "deadline": "2026-11-16",
    "location": "",
    "pay": "",
@@ -1030,19 +1030,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:363226",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[한국GM] 2027 동계인턴사원 모집 (생산/안전/품질)",
-   "org": "한국GM",
-   "url": "https://linkareer.com/activity/363226",
-   "deadline": "2026-11-16",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362507",
    "source": "링커리어",
    "type": "인턴",
@@ -1062,6 +1049,32 @@
    "title": "[알파브라더스] 「2026 충청 스타트업 벤처포럼」 2회차-오픈이노베이션 교류회 참가 안내의 건",
    "org": "주식회사 알파브라더스",
    "url": "https://linkareer.com/activity/363186",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363477",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "제과제빵부 ; 베이킹 동아리 신입부원 모집",
+   "org": "베이킹",
+   "url": "https://linkareer.com/activity/363477",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363450",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "컴활 스터디원 모집",
+   "org": "연합동아리",
+   "url": "https://linkareer.com/activity/363450",
    "deadline": "2026-11-17",
    "location": "",
    "pay": "",
@@ -1342,6 +1355,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363533",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[동성케미컬] HR실 체험형 인턴사원 모집 (6개월)",
+   "org": "동성케미컬",
+   "url": "https://linkareer.com/activity/363533",
+   "deadline": "2026-11-18",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:363498",
    "source": "링커리어",
    "type": "인턴",
@@ -1459,12 +1485,12 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362432",
+   "id": "링커리어:363481",
    "source": "링커리어",
    "type": "인턴",
-   "title": "[딜로이트 안진회계법인] 회계감사부문 Audit DC 감사지원업무(조회서 조서화) 인턴 채용",
-   "org": "Deloitte 안진회계법인",
-   "url": "https://linkareer.com/activity/362432",
+   "title": "[11월 집중채용] zeta 서비스 기획·운영 인턴",
+   "org": "스캐터랩[zeta]",
+   "url": "https://linkareer.com/activity/363481",
    "deadline": "2026-11-19",
    "location": "",
    "pay": "",
@@ -1472,12 +1498,12 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362428",
+   "id": "링커리어:362432",
    "source": "링커리어",
    "type": "인턴",
-   "title": "[딜로이트 안진회계법인] 회계감사부문 Audit DC 감사지원업무(조회서 수발신) 인턴 채용",
+   "title": "[딜로이트 안진회계법인] 회계감사부문 Audit DC 감사지원업무(조회서 조서화) 인턴 채용",
    "org": "Deloitte 안진회계법인",
-   "url": "https://linkareer.com/activity/362428",
+   "url": "https://linkareer.com/activity/362432",
    "deadline": "2026-11-19",
    "location": "",
    "pay": "",
@@ -1719,16 +1745,29 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362199",
+   "id": "링커리어:363547",
    "source": "링커리어",
    "type": "대외활동",
-   "title": "혼성 풋살팀 원플레이 홍보·마케팅 운영진 모집",
-   "org": "원플레이",
-   "url": "https://linkareer.com/activity/362199",
+   "title": "궁금했던 그 학과, 선배에게 1:1로 묻는 학과별 진로멘토링 참여자 모집",
+   "org": "자치교육 사회적협동조합 길잡이",
+   "url": "https://linkareer.com/activity/363547",
    "deadline": "2026-11-21",
    "location": "",
    "pay": "",
-   "content": true,
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363495",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "[에클라 메이크업 | ÉCLAT MAKEUP] 단기 클래스 1기 수강생 모집",
+   "org": "에클라",
+   "url": "https://linkareer.com/activity/363495",
+   "deadline": "2026-11-21",
+   "location": "",
+   "pay": "",
+   "content": false,
    "first_seen": "2026-11-11"
   },
   {
@@ -2018,6 +2057,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363474",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[얼리버드 -11/2] 신입 마케터 대규모 채용 (채용연계형 인턴)",
+   "org": "이삼오구",
+   "url": "https://linkareer.com/activity/363474",
+   "deadline": "2026-11-22",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:363457",
    "source": "링커리어",
    "type": "인턴",
@@ -2174,6 +2226,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363521",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오뱅크] AI 운영 어시스턴트 (체험형 인턴)",
+   "org": "카카오뱅크",
+   "url": "https://linkareer.com/activity/363521",
+   "deadline": "2026-11-23",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:363305",
    "source": "링커리어",
    "type": "인턴",
@@ -2249,19 +2314,6 @@
    "location": "",
    "pay": "",
    "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362416",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[11/11 서류 접수] 2026 AI 인턴십 (게임개발/기획 통합 직무, 채용전환형)",
-   "org": "넷마블네오",
-   "url": "https://linkareer.com/activity/362416",
-   "deadline": "2026-11-24",
-   "location": "",
-   "pay": "",
-   "content": false,
    "first_seen": "2026-11-11"
   },
   {
@@ -2642,19 +2694,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362679",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "내향인 주목, 디저트로 힐링하는 카페투어&베이킹 동아리 [쿠키런]",
-   "org": "쿠키런 베이킹연합동아리",
-   "url": "https://linkareer.com/activity/362679",
-   "deadline": "2026-11-28",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362665",
    "source": "링커리어",
    "type": "대외활동",
@@ -2668,12 +2707,12 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362590",
+   "id": "링커리어:363459",
    "source": "링커리어",
-   "type": "서포터즈",
-   "title": "볼링 모임 모집 | 일단 굴러는 갑니다",
-   "org": ".",
-   "url": "https://linkareer.com/activity/362590",
+   "type": "공모전",
+   "title": "[2026 서울관광 프롬프톤] 참가자모집",
+   "org": "서울관광재단",
+   "url": "https://linkareer.com/activity/363459",
    "deadline": "2026-11-29",
    "location": "",
    "pay": "",
@@ -2902,6 +2941,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:362818",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "나만의 상상을 현실로! AI 이미지 생성 스터디 모집",
+   "org": "Nano Graphics",
+   "url": "https://linkareer.com/activity/362818",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:362810",
    "source": "링커리어",
    "type": "서포터즈",
@@ -2934,19 +2986,6 @@
    "title": "대학생 연합 등산 동아리 ‘서울메아리’ 3기",
    "org": "메아리 서울등산연합동아리",
    "url": "https://linkareer.com/activity/362683",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362682",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "I scream! 영어회화 동아리 3기 모집",
-   "org": "아이스크림 영어연합동아리",
-   "url": "https://linkareer.com/activity/362682",
    "deadline": "2026-11-30",
    "location": "",
    "pay": "",
@@ -3292,19 +3331,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362656",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "꽉잡아 클라이밍 연합동아리 7기 모집",
-   "org": "꽉잡아 클라이밍 연합동아리",
-   "url": "https://linkareer.com/activity/362656",
-   "deadline": "2026-12-05",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363261",
    "source": "링커리어",
    "type": "공모전",
@@ -3500,32 +3526,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362551",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "[PROOF Lab] 겨울방학 6주 팀 프로젝트 멤버 모집 (웹 서비스 배포·데모데이)",
-   "org": "PROOF Lab",
-   "url": "https://linkareer.com/activity/362551",
-   "deadline": "2026-12-19",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362549",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "자격증 전문 스터디 《스펙업(SPECUP)》 2기 모집",
-   "org": "스펙업",
-   "url": "https://linkareer.com/activity/362549",
-   "deadline": "2026-12-19",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363343",
    "source": "링커리어",
    "type": "공모전",
@@ -3552,16 +3552,16 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362544",
+   "id": "링커리어:363471",
    "source": "링커리어",
    "type": "서포터즈",
-   "title": "▶콘텐츠 마케팅 <ConMA> 동아리원 모집◀",
-   "org": "콘텐츠 마케팅 동아리 <ConMA>",
-   "url": "https://linkareer.com/activity/362544",
-   "deadline": "2026-12-27",
+   "title": "한 번에 착! 붙어보자!! [착붙] 신규인원 모집!",
+   "org": "착붙",
+   "url": "https://linkareer.com/activity/363471",
+   "deadline": "2026-12-31",
    "location": "",
    "pay": "",
-   "content": true,
+   "content": false,
    "first_seen": "2026-11-11"
   },
   {
@@ -3669,6 +3669,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363196",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "[2026 아마존 코리아 커뮤니티 펀드] 인천·울산 비영리단체·학교·대학·도서관 프로젝트 지원 (최대 1,400만 원)",
+   "org": "ChangeX (체인지엑스)",
+   "url": "https://linkareer.com/activity/363196",
+   "deadline": "2027-01-18",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:362618",
    "source": "링커리어",
    "type": "공모전",
@@ -3689,19 +3702,6 @@
    "org": "주식회사 두부",
    "url": "https://linkareer.com/activity/362770",
    "deadline": "2027-01-18",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363196",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "[2026 아마존 코리아 커뮤니티 펀드] 인천·울산 비영리단체·학교·대학·도서관 프로젝트 지원 (최대 1,400만 원)",
-   "org": "ChangeX (체인지엑스)",
-   "url": "https://linkareer.com/activity/363196",
-   "deadline": "2027-01-19",
    "location": "",
    "pay": "",
    "content": false,
@@ -3747,19 +3747,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:363031",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "2026–27 스토리리그 AI 영상 예고편 공모전｜STORY LEAGUE SEASON 0",
-   "org": "티엔제이인터내셔널",
-   "url": "https://linkareer.com/activity/363031",
-   "deadline": "2027-01-30",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363327",
    "source": "링커리어",
    "type": "대외활동",
@@ -3786,6 +3773,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:362893",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "나만의 취향이 담긴 프리셋 만들기! Lightroom 클래스",
+   "org": "Lightroom CLASS",
+   "url": "https://linkareer.com/activity/362893",
+   "deadline": "2027-01-31",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:362800",
    "source": "링커리어",
    "type": "서포터즈",
@@ -3793,32 +3793,6 @@
    "org": "대한민국대학생교육기부단",
    "url": "https://linkareer.com/activity/362800",
    "deadline": "2027-01-31",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362591",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "아나운서•성우 체험 동아리 | 청음 |",
-   "org": "청음",
-   "url": "https://linkareer.com/activity/362591",
-   "deadline": "2027-01-31",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362204",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "누크 커피 & 이모생각 블로그 체험단",
-   "org": "누크, 이모생각",
-   "url": "https://linkareer.com/activity/362204",
-   "deadline": "2027-02-02",
    "location": "",
    "pay": "",
    "content": false,
@@ -3955,45 +3929,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362408",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[미국] 글로벌 모빌리티 대기업그룹의 핵심 배터리 제조 현지 법인 물류팀(Logistics/Warehouse) 채용 (미국 입국 항공권 지원)",
-   "org": "Hankook & Company ES America Corporation",
-   "url": "https://linkareer.com/activity/362408",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362405",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[미국] LA 여성 패션 제조/홀세일 전문 회사 의류 생산관리 모집",
-   "org": "Lovesense Inc. (DBA. Oddi)",
-   "url": "https://linkareer.com/activity/362405",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362396",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[Vigloo] 콘텐츠 파트너십 인턴 (3개월/채용시 마감)",
-   "org": "스푼랩스",
-   "url": "https://linkareer.com/activity/362396",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362805",
    "source": "링커리어",
    "type": "대외활동",
@@ -4104,19 +4039,6 @@
    "title": "Rewrite 4기 추가 모집 — 대학생 작문 동아리",
    "org": "Rewrite",
    "url": "https://linkareer.com/activity/362733",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362563",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "JPOP밴드 [YORU(夜) SOUND] 3기에 함께하실 부원들을 모집합니다",
-   "org": "[YORU(夜) SOUND 3기",
-   "url": "https://linkareer.com/activity/362563",
    "deadline": "2027-02-04",
    "location": "",
    "pay": "",
@@ -4540,19 +4462,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362670",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "[사이드나우 3기] AI프로젝트 연합동아리 회원 모집",
-   "org": "사이드나우",
-   "url": "https://linkareer.com/activity/362670",
-   "deadline": "2027-02-07",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363142",
    "source": "링커리어",
    "type": "인턴",
@@ -4696,6 +4605,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363472",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "패션 자신 없는 분들, 무료로 스타일 변화시켜드립니다",
+   "org": "리쥬",
+   "url": "https://linkareer.com/activity/363472",
+   "deadline": "2027-02-08",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
    "id": "링커리어:363268",
    "source": "링커리어",
    "type": "대외활동",
@@ -4706,6 +4628,71 @@
    "location": "",
    "pay": "",
    "content": true,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363487",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "찍먹 출사 동아리",
+   "org": "찍먹 출사 동아리",
+   "url": "https://linkareer.com/activity/363487",
+   "deadline": "2027-02-08",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363483",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "SOUND LAB 032",
+   "org": "SOUND LAB 032",
+   "url": "https://linkareer.com/activity/363483",
+   "deadline": "2027-02-08",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363480",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "핑퐁땅 : 핑치고 퐁치고 땅치고 2학기와 겨울방학을 함께할 동아리원 대모집 중!!",
+   "org": "핑퐁땅 : 핑치고 퐁치고 땅치고 학기와 겨울방학을 함께할 동아리원 대모집 중!!",
+   "url": "https://linkareer.com/activity/363480",
+   "deadline": "2027-02-08",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363479",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "[초보환영 / 남녀모집] 같이 농구할 20대 모집합니다!",
+   "org": "어농어스",
+   "url": "https://linkareer.com/activity/363479",
+   "deadline": "2027-02-08",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363445",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "현직 성우가 직접 알려주는 [면접 & 자기소개] 스피치 레슨",
+   "org": "스피치 레슨",
+   "url": "https://linkareer.com/activity/363445",
+   "deadline": "2027-02-08",
+   "location": "",
+   "pay": "",
+   "content": false,
    "first_seen": "2026-11-11"
   },
   {
@@ -4969,16 +4956,81 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362675",
+   "id": "링커리어:363489",
    "source": "링커리어",
    "type": "서포터즈",
-   "title": "제6회 2026 청춘런",
-   "org": "런앤런",
-   "url": "https://linkareer.com/activity/362675",
-   "deadline": "2027-02-20",
+   "title": "굴려볼링",
+   "org": "굴려굴려",
+   "url": "https://linkareer.com/activity/363489",
+   "deadline": "2027-02-09",
    "location": "",
    "pay": "",
    "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363486",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "옴 샨티샨티 (요가필라테스) 4기 모집",
+   "org": "옴 샨티샨티",
+   "url": "https://linkareer.com/activity/363486",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363534",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오페이] [어시스턴트] 언론 PR/커뮤니케이션 업무 지원",
+   "org": "카카오페이",
+   "url": "https://linkareer.com/activity/363534",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363470",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "영상 콘텐츠 제작 인턴 모집(신입)",
+   "org": "주식회사 우아한청년들",
+   "url": "https://linkareer.com/activity/363470",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363357",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "[디자인 초보 환영] 포토샵 스터디 누끼의민족 6기",
+   "org": "포토샵 스터디 [누끼의민족]",
+   "url": "https://linkareer.com/activity/363357",
+   "deadline": "2027-02-14",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363444",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2026 인천 창의X디자인 위크",
+   "org": "인천테크노파크",
+   "url": "https://linkareer.com/activity/363444",
+   "deadline": "2027-02-25",
+   "location": "",
+   "pay": "",
+   "content": true,
    "first_seen": "2026-11-11"
   },
   {
