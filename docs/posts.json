@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T10:32+09:00",
+ "updated_at": "2026-11-12T02:31+09:00",
  "sources": {
   "사람인": {
    "ok": false,
@@ -15,58 +15,6 @@
   }
  },
  "posts": [
-  {
-   "id": "링커리어:362572",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "2026 모두의 창업 1기 전국예선 중부권 시민평가단 모집",
-   "org": "2026 모두의 창업 1기 전국 예선 중부권 운영사무국 (주)디포스트",
-   "url": "https://linkareer.com/activity/362572",
-   "deadline": "2026-11-11",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362458",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "토리다치 2기 모집",
-   "org": "토리다치",
-   "url": "https://linkareer.com/activity/362458",
-   "deadline": "2026-11-11",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363146",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[EY한영] 금융컨설팅본부 IT컨설팅 (AXIS팀) 인턴",
-   "org": "EY한영",
-   "url": "https://linkareer.com/activity/363146",
-   "deadline": "2026-11-11",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362490",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[하루7H근무/중식제공/본사] 신세계인터내셔날 이커머스 뷰티팀 AMD 채용",
-   "org": "주식회사유니에스",
-   "url": "https://linkareer.com/activity/362490",
-   "deadline": "2026-11-11",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
   {
    "id": "링커리어:363408",
    "source": "링커리어",
@@ -133,45 +81,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362493",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "2026년 전쟁기념관 [제16회 전쟁역사포럼] 일일 서포터즈 모집",
-   "org": "전쟁기념사업회",
-   "url": "https://linkareer.com/activity/362493",
-   "deadline": "2026-11-12",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362460",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[시공간] 픽포미 대학생 서포터즈 1기 모집",
-   "org": "시공간",
-   "url": "https://linkareer.com/activity/362460",
-   "deadline": "2026-11-12",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362292",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[행사운영지원] 2026-27 한국-뉴질랜드 포용무대 레지던시 공연 자원봉사자 모집",
-   "org": "사단법인 빛소리친구들",
-   "url": "https://linkareer.com/activity/362292",
-   "deadline": "2026-11-12",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363501",
    "source": "링커리어",
    "type": "서포터즈",
@@ -198,6 +107,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363780",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2026 강원일보 시니어문학상",
+   "org": "강원일보",
+   "url": "https://linkareer.com/activity/363780",
+   "deadline": "2026-11-12",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363391",
    "source": "링커리어",
    "type": "공모전",
@@ -217,19 +139,6 @@
    "title": "[EY한영] 경영지원본부 Talent 채용팀 인턴",
    "org": "EY한영",
    "url": "https://linkareer.com/activity/362828",
-   "deadline": "2026-11-12",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362531",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[네이버제트] 제페토 라이브 스트리머 운영 체험형 인턴",
-   "org": "네이버제트",
-   "url": "https://linkareer.com/activity/362531",
    "deadline": "2026-11-12",
    "location": "",
    "pay": "",
@@ -328,71 +237,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362472",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[굿네이버스] 환경문제, 이제 ‘스펙’으로 만들자 | 커리어 브랜딩 환경 캠페인 'Environmental Design' 24기 모집",
-   "org": "굿네이버스 경기동부사업본부",
-   "url": "https://linkareer.com/activity/362472",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362470",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[굿네이버스] 2,000명이 선택한 SDGs 경험, 이번엔 당신 차례 ㅣ SDGs PROJECT [ZERO] 24기 모집",
-   "org": "굿네이버스 경기동부사업본부",
-   "url": "https://linkareer.com/activity/362470",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362469",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[굿네이버스] 올해 마지막 기회! 내 전공으로 지구 반대편 문제까지 해결하자! ‘모두의 마을’ 5기 모집",
-   "org": "굿네이버스 경기동부사업본부",
-   "url": "https://linkareer.com/activity/362469",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362455",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[굿네이버스] 올해 마지막 포트폴리오를 위한 'IMPACT MAKER' 8기 모집",
-   "org": "굿네이버스 경기동부사업본부",
-   "url": "https://linkareer.com/activity/362455",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362328",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[굿네이버스] Web:메이커스: SDGs × AI 나만의 웹 서비스 제작 (비대면 2주 완성/초보자 가능)",
-   "org": "굿네이버스 서울인천권역본부",
-   "url": "https://linkareer.com/activity/362328",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362821",
    "source": "링커리어",
    "type": "서포터즈",
@@ -458,45 +302,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362259",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "당신의 시선으로 담는 장승포(장승포/능포) 영상공모전 공고",
-   "org": "주식회사 리컴퍼니",
-   "url": "https://linkareer.com/activity/362259",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362187",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "2026 전북학생 문학상 공모전",
-   "org": "전북특별자치도교육청",
-   "url": "https://linkareer.com/activity/362187",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362446",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[네이버] 음성번역 품질 평가/멀티모달 번역 연구 (인턴)",
-   "org": "네이버",
-   "url": "https://linkareer.com/activity/362446",
-   "deadline": "2026-11-13",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362677",
    "source": "링커리어",
    "type": "대외활동",
@@ -534,6 +339,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363706",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[라이프오아시스] 글로벌 커뮤니케이션 앱 maum 대학생 서포터즈 마음크루 모집",
+   "org": "라이프오아시스",
+   "url": "https://linkareer.com/activity/363706",
+   "deadline": "2026-11-15",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363175",
@@ -601,19 +419,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362331",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "⭐[2027 더스타 매거진] 대학생 에디터 3기 모집⭐",
-   "org": "더스타미디어",
-   "url": "https://linkareer.com/activity/362331",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363504",
    "source": "링커리어",
    "type": "서포터즈",
@@ -651,6 +456,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363610",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "생성형 AI를 활용한 평택시청소년재단 캐릭터(마스코트) 공모전",
+   "org": "평택시",
+   "url": "https://linkareer.com/activity/363610",
+   "deadline": "2026-11-15",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363369",
@@ -705,30 +523,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362360",
+   "id": "링커리어:363752",
    "source": "링커리어",
-   "type": "공모전",
-   "title": "제1회 두스쿱 숏폼 공모전",
-   "org": "두스쿱",
-   "url": "https://linkareer.com/activity/362360",
+   "type": "인턴",
+   "title": "[삼일회계법인] 삼일피더블유씨엑셀러레이션센터 인사 채용·인사 운영 인턴 채용",
+   "org": "삼일회계법인",
+   "url": "https://linkareer.com/activity/363752",
    "deadline": "2026-11-15",
    "location": "",
    "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362150",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "나만의 텃밭을 보여주세요! 영상 공모 이벤트",
-   "org": "(주)태원이노베이션",
-   "url": "https://linkareer.com/activity/362150",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363543",
@@ -750,19 +555,6 @@
    "title": "[두산퓨얼셀] 연료전지 원격 운전/모니터링 인턴 채용",
    "org": "두산퓨얼셀",
    "url": "https://linkareer.com/activity/363497",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363387",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[하루7H근무/중식제공/본사] 신세계인터내셔날 이커머스 뷰티팀 AMD 채용 (딥티크, 로에베 등)",
-   "org": "주식회사유니에스",
-   "url": "https://linkareer.com/activity/363387",
    "deadline": "2026-11-15",
    "location": "",
    "pay": "",
@@ -809,56 +601,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362666",
+   "id": "링커리어:363585",
    "source": "링커리어",
-   "type": "인턴",
-   "title": "[비티젠] 2026년 11월 수시채용",
-   "org": "비티젠",
-   "url": "https://linkareer.com/activity/362666",
-   "deadline": "2026-11-15",
+   "type": "대외활동",
+   "title": "다시 돌아온! MOWI 연어 서포터즈 3차 모집",
+   "org": "모위코리아",
+   "url": "https://linkareer.com/activity/363585",
+   "deadline": "2026-11-16",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362634",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[에코마케팅] 마케팅 영상 크리에이터 채용",
-   "org": "에코마케팅",
-   "url": "https://linkareer.com/activity/362634",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362596",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[세방전지] 2026년 4분기 세방전지(주) 채용연계형 인턴 채용",
-   "org": "세방전지",
-   "url": "https://linkareer.com/activity/362596",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362548",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[세방] 2026년 4분기 채용연계형 인턴 채용",
-   "org": "세방",
-   "url": "https://linkareer.com/activity/362548",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363323",
@@ -867,19 +620,6 @@
    "title": "마음하나 서포터즈 마음수호대 5기 모집",
    "org": "마음하나",
    "url": "https://linkareer.com/activity/363323",
-   "deadline": "2026-11-16",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363292",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "셀카 한 장으로 4주 피부 챌린지 — 루아 30명 모집 (완주 시 신세계 상품권 2만 원)",
-   "org": "주식회사 누(NOU)",
-   "url": "https://linkareer.com/activity/363292",
    "deadline": "2026-11-16",
    "location": "",
    "pay": "",
@@ -991,17 +731,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362193",
+   "id": "링커리어:363759",
    "source": "링커리어",
-   "type": "공모전",
-   "title": "사장님을 위한 금융 아이디어 공모전",
-   "org": "케이뱅크",
-   "url": "https://linkareer.com/activity/362193",
+   "type": "인턴",
+   "title": "[KB자산운용] 주식운용본부 리서치실 인턴 채용",
+   "org": "KB자산운용",
+   "url": "https://linkareer.com/activity/363759",
    "deadline": "2026-11-16",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363317",
@@ -1030,17 +770,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362507",
+   "id": "링커리어:363226",
    "source": "링커리어",
    "type": "인턴",
-   "title": "[비테스코테크놀로지스코리아] 이천사업장 11월 신입 및 경력직 채용",
-   "org": "비테스코테크놀로지스코리아",
-   "url": "https://linkareer.com/activity/362507",
+   "title": "[한국GM] 2027 동계인턴사원 모집 (생산/안전/품질)",
+   "org": "한국GM",
+   "url": "https://linkareer.com/activity/363226",
    "deadline": "2026-11-16",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363186",
@@ -1095,6 +835,45 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363779",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "광명상생플랫폼 로고 공모전",
+   "org": "광명시",
+   "url": "https://linkareer.com/activity/363779",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363772",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "핵 없는 세상을 위한 전국행동! 마스코트 이름 짓기 대회",
+   "org": "신규핵발전소저지와 핵없는사회를위한전국행동",
+   "url": "https://linkareer.com/activity/363772",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363763",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "인천광역시교육청 후원 '2026 J.S. 바흐 국제 페스티벌 콩쿠르 실용음악 부문'",
+   "org": "한국예술문화교류학회",
+   "url": "https://linkareer.com/activity/363763",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:362949",
    "source": "링커리어",
    "type": "공모전",
@@ -1106,6 +885,32 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363656",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[하루7H근무/중식제공/본사] 신세계인터내셔날 이커머스 입점팀 패션 AMD 채용(잉크, 던스트 등)",
+   "org": "주식회사유니에스",
+   "url": "https://linkareer.com/activity/363656",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363582",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[EY한영] 마켓부문 사업지원팀(Client & Industries Growth) 전환형 인턴",
+   "org": "EY한영",
+   "url": "https://linkareer.com/activity/363582",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363379",
@@ -1160,43 +965,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362648",
+   "id": "링커리어:363555",
    "source": "링커리어",
-   "type": "인턴",
-   "title": "[Johnson&Johnson MedTech] Strategic Sales Intern(Surgery) 채용",
-   "org": "한국존슨앤드존슨메디칼",
-   "url": "https://linkareer.com/activity/362648",
-   "deadline": "2026-11-17",
+   "type": "대외활동",
+   "title": "[BemyB] 변화하는 시대, 변하지 않아야 할 디자인의 기준(11/18 수)",
+   "org": "비마이비",
+   "url": "https://linkareer.com/activity/363555",
+   "deadline": "2026-11-18",
    "location": "",
    "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362521",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[(주) 한국존슨앤드존슨] Strategic Sales Intern(Surgery) 채용",
-   "org": "(주) 한국존슨앤드존슨",
-   "url": "https://linkareer.com/activity/362521",
-   "deadline": "2026-11-17",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362516",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[(주) 한국존슨앤드존슨] Marketing Intern(Neurovascular) 채용",
-   "org": "(주) 한국존슨앤드존슨",
-   "url": "https://linkareer.com/activity/362516",
-   "deadline": "2026-11-17",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
+   "content": true,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363352",
@@ -1264,30 +1043,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362390",
+   "id": "링커리어:363629",
    "source": "링커리어",
-   "type": "대외활동",
-   "title": "[DAZZL] 시험 멘탈 코치 & 스터디 플래너 앱 베타 테스터 모집 (에어팟 프로3 등 경품)",
-   "org": "DAZZL (A4J Global, LLC)",
-   "url": "https://linkareer.com/activity/362390",
+   "type": "서포터즈",
+   "title": "웰니스 마케팅 창업 소모임",
+   "org": "Wellness Business Lab (WBL)",
+   "url": "https://linkareer.com/activity/363629",
    "deadline": "2026-11-18",
    "location": "",
    "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362371",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "걸어서 광희로드로 | 도슨트가 들려주는 광희동 노포 스토리 & 미식투어",
-   "org": "프리즈미",
-   "url": "https://linkareer.com/activity/362371",
-   "deadline": "2026-11-18",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
+   "content": true,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:362809",
@@ -1301,6 +1067,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363778",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "POSTECH 테크데이",
+   "org": "과학기술정보통신부",
+   "url": "https://linkareer.com/activity/363778",
+   "deadline": "2026-11-18",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363183",
@@ -1459,6 +1238,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363616",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "[한국사학진흥재단] 2026년 폐교대학 통합 증명발급 서비스 수기 공모전",
+   "org": "한국사학진흥재단",
+   "url": "https://linkareer.com/activity/363616",
+   "deadline": "2026-11-19",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:362630",
    "source": "링커리어",
    "type": "공모전",
@@ -1469,19 +1261,6 @@
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362169",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "Tree Eco 파충류 캐릭터 디자인 공모전",
-   "org": "트리에코",
-   "url": "https://linkareer.com/activity/362169",
-   "deadline": "2026-11-19",
-   "location": "",
-   "pay": "",
-   "content": true,
    "first_seen": "2026-11-11"
   },
   {
@@ -1498,17 +1277,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362432",
+   "id": "링커리어:363756",
    "source": "링커리어",
-   "type": "인턴",
-   "title": "[딜로이트 안진회계법인] 회계감사부문 Audit DC 감사지원업무(조회서 조서화) 인턴 채용",
-   "org": "Deloitte 안진회계법인",
-   "url": "https://linkareer.com/activity/362432",
-   "deadline": "2026-11-19",
+   "type": "대외활동",
+   "title": "26년 하반기 이랜드크루즈 Z세대 서포터즈 모집",
+   "org": "(주)이크루즈",
+   "url": "https://linkareer.com/activity/363756",
+   "deadline": "2026-11-20",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363464",
@@ -1563,25 +1342,25 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363664",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "[일본어는 핑계고 6기] 신입부원 모집!!",
+   "org": "일본어는핑계고",
+   "url": "https://linkareer.com/activity/363664",
+   "deadline": "2026-11-20",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363157",
    "source": "링커리어",
    "type": "서포터즈",
    "title": "강연 기획 동아리 '젊음이 묻습니다' 26.5기 부원을 모집합니다.✨ [~11/20(금) 마감]",
    "org": "젊음이 묻습니다",
    "url": "https://linkareer.com/activity/363157",
-   "deadline": "2026-11-20",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363022",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "[일본어는 핑계고 6기] 신입부원 모집!!",
-   "org": "일본어는핑계고",
-   "url": "https://linkareer.com/activity/363022",
    "deadline": "2026-11-20",
    "location": "",
    "pay": "",
@@ -1654,32 +1433,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362191",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "숏츠로 전하는 환경보건 이야기",
-   "org": "서울시립대학교 환경보건센터",
-   "url": "https://linkareer.com/activity/362191",
-   "deadline": "2026-11-20",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362186",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "『안산 4.16 세월호 참사 추모시설』명칭 공모",
-   "org": "4·16재단",
-   "url": "https://linkareer.com/activity/362186",
-   "deadline": "2026-11-20",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363425",
    "source": "링커리어",
    "type": "인턴",
@@ -1745,6 +1498,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363674",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[타임금융교육원] 금융실무과정 105기 (~11/21 마감)",
+   "org": "타임금융교육원",
+   "url": "https://linkareer.com/activity/363674",
+   "deadline": "2026-11-21",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363547",
    "source": "링커리어",
    "type": "대외활동",
@@ -1795,6 +1561,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363680",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[세정] 디지털 매거진 YOURLOG 유어로그 콘텐츠 에디터 서포터즈 모집 (~11/22)",
+   "org": "(주) 세정서울지사",
+   "url": "https://linkareer.com/activity/363680",
+   "deadline": "2026-11-22",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363411",
@@ -1901,32 +1680,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362348",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "신농작소 서포터즈 3기 모집",
-   "org": "신농작소",
-   "url": "https://linkareer.com/activity/362348",
-   "deadline": "2026-11-22",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362294",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[행사운영지원] 제11회 대한민국장애인국제무용제 KIADA2026 사진전 자원봉사자 모집",
-   "org": "사단법인 빛소리친구들",
-   "url": "https://linkareer.com/activity/362294",
-   "deadline": "2026-11-22",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363090",
    "source": "링커리어",
    "type": "서포터즈",
@@ -1992,6 +1745,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363771",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "(가칭)과천지식정보타운 도서관 명칭 시민 공모",
+   "org": "과천시",
+   "url": "https://linkareer.com/activity/363771",
+   "deadline": "2026-11-22",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363164",
    "source": "링커리어",
    "type": "공모전",
@@ -2031,17 +1797,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362530",
+   "id": "링커리어:363765",
    "source": "링커리어",
-   "type": "공모전",
-   "title": "2026년 제11회 히말라야 문예대전 작품 공모 기간 연장",
-   "org": "NGO(사)나마스떼코리아",
-   "url": "https://linkareer.com/activity/362530",
+   "type": "인턴",
+   "title": "[플리토] 실시간 통번역 솔루션 운영/영업 지원 인턴 채용",
+   "org": "플리토",
+   "url": "https://linkareer.com/activity/363765",
    "deadline": "2026-11-22",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363490",
@@ -2135,19 +1901,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362716",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[LG생활건강] 소셜크루 25기 채용 공고",
-   "org": "LG생활건강",
-   "url": "https://linkareer.com/activity/362716",
-   "deadline": "2026-11-22",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363218",
    "source": "링커리어",
    "type": "대외활동",
@@ -2200,6 +1953,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363777",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "제 20회 백석 글판 공모전",
+   "org": "백석예술대학교",
+   "url": "https://linkareer.com/activity/363777",
+   "deadline": "2026-11-23",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363330",
    "source": "링커리어",
    "type": "공모전",
@@ -2239,6 +2005,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363315",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[오오비컴퍼니] 마케팅(AE)_오프라인_인턴(체험형)",
+   "org": "오오비컴퍼니",
+   "url": "https://linkareer.com/activity/363315",
+   "deadline": "2026-11-23",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363305",
    "source": "링커리어",
    "type": "인턴",
@@ -2250,6 +2029,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363285",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[오오비컴퍼니] 디자이너(Designer)_인턴(체험형)",
+   "org": "오오비컴퍼니",
+   "url": "https://linkareer.com/activity/363285",
+   "deadline": "2026-11-23",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363149",
@@ -2317,6 +2109,97 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363570",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[화담일보] 학생기자단 2기 경제부 모집｜기업·금융·IT·산업 분야 취업 포트폴리오",
+   "org": "화담일보",
+   "url": "https://linkareer.com/activity/363570",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363569",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[화담일보] 학생기자단 2기 스포츠부 모집｜스포츠 구단·마케팅·미디어 취업 포트폴리오",
+   "org": "화담일보",
+   "url": "https://linkareer.com/activity/363569",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363568",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[화담일보] 학생기자단 2기 국제부 모집｜해외영업·무역·글로벌 기업 취업 포트폴리오",
+   "org": "화담일보",
+   "url": "https://linkareer.com/activity/363568",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363567",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[화담일보] 학생기자단 2기 문화·연예부 모집｜방송·엔터테인먼트·콘텐츠 취업 포트폴리오",
+   "org": "화담일보",
+   "url": "https://linkareer.com/activity/363567",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363566",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[화담일보] 학생기자단 2기 사회부 모집｜교육·법률·복지·취업 분야 기사 활동",
+   "org": "화담일보",
+   "url": "https://linkareer.com/activity/363566",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363565",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[화담일보] 학생기자단 2기 정치부 모집｜행정·정책·공공기관 취업 포트폴리오",
+   "org": "화담일보",
+   "url": "https://linkareer.com/activity/363565",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363536",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "2027 남이섬세계책나라축제 대학생 홍보 서포터즈 '아임나미'",
+   "org": "(주)남이섬교육문화그룹",
+   "url": "https://linkareer.com/activity/363536",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363393",
    "source": "링커리어",
    "type": "대외활동",
@@ -2341,6 +2224,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363769",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2027-28 뮤지컬 <스쿨 오브 락> 최초 한국어 공연 아역 배우 오디션",
+   "org": "에스앤코㈜",
+   "url": "https://linkareer.com/activity/363769",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363298",
@@ -2408,19 +2304,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362454",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "월간 「삶의 온기」 1월 호 원고 모집",
-   "org": "도서출판 하영인",
-   "url": "https://linkareer.com/activity/362454",
-   "deadline": "2026-11-25",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363127",
    "source": "링커리어",
    "type": "인턴",
@@ -2473,32 +2356,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362461",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "대전창조경제혁신센터 – <참가자 모집> 2026 재도전·혁신캠퍼스 성과공유회 「Re-Boot : Finale」",
-   "org": "대전창조경제혁신센터",
-   "url": "https://linkareer.com/activity/362461",
-   "deadline": "2026-11-26",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362351",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[서울창업허브 키친인큐베이터] 2026년 개별·공유주방 25기 및 제조주방 13기 모집",
-   "org": "(주)마이샵온샵",
-   "url": "https://linkareer.com/activity/362351",
-   "deadline": "2026-11-26",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362797",
    "source": "링커리어",
    "type": "공모전",
@@ -2510,6 +2367,45 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363761",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "2026년 청년 이음 프로젝트 산울림 청소년활동가 미리보기 참가자 모집",
+   "org": "산울림청소년센터",
+   "url": "https://linkareer.com/activity/363761",
+   "deadline": "2026-11-27",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363630",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[대덕구] 2027년 대덕구 SNS 서포터즈 모집",
+   "org": "대덕구",
+   "url": "https://linkareer.com/activity/363630",
+   "deadline": "2026-11-27",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363524",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "문제해결 서포터즈 취향고백, 저장만 하지말고 도전해볼 차례! ㅣ 굿네이버스",
+   "org": "굿네이버스 경기2사업본부",
+   "url": "https://linkareer.com/activity/363524",
+   "deadline": "2026-11-27",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363454",
@@ -2577,32 +2473,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362425",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[한국무역협회] 2026 KITA 국제컨퍼런스 참가자 모집 (~11/27)",
-   "org": "주식회사 마이스앤드",
-   "url": "https://linkareer.com/activity/362425",
-   "deadline": "2026-11-27",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362383",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[잠실청소년센터] 청소년문화공간 운영 지원 봉사자 모집 (평일 14:00~18:00)",
-   "org": "잠실청소년센터",
-   "url": "https://linkareer.com/activity/362383",
-   "deadline": "2026-11-27",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362947",
    "source": "링커리어",
    "type": "서포터즈",
@@ -2614,6 +2484,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363652",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "건학 50주년 기념 동명대학교 캐릭터 공모전",
+   "org": "동명대학교",
+   "url": "https://linkareer.com/activity/363652",
+   "deadline": "2026-11-27",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363182",
@@ -2668,19 +2551,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362189",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "2026년 AI·디지털 활용 연구·선도학교 우수사례 공모전",
-   "org": "한국교육학술정보원",
-   "url": "https://linkareer.com/activity/362189",
-   "deadline": "2026-11-27",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362564",
    "source": "링커리어",
    "type": "대외활동",
@@ -2700,19 +2570,6 @@
    "title": "[파주시] 2026 제30회 파주장단콩축제",
    "org": "파주시청",
    "url": "https://linkareer.com/activity/362665",
-   "deadline": "2026-11-29",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363459",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "[2026 서울관광 프롬프톤] 참가자모집",
-   "org": "서울관광재단",
-   "url": "https://linkareer.com/activity/363459",
    "deadline": "2026-11-29",
    "location": "",
    "pay": "",
@@ -2772,19 +2629,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362181",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "제2회 서울대학교 SNU Commons 중앙도서관 융합 미디어 작품 공모전",
-   "org": "서울대학교 중앙도서관",
-   "url": "https://linkareer.com/activity/362181",
-   "deadline": "2026-11-29",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362783",
    "source": "링커리어",
    "type": "인턴",
@@ -2796,6 +2640,32 @@
    "pay": "",
    "content": true,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363717",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[용인특례시] 제7기 용인청년정책네트워크 위원 모집",
+   "org": "용인특례시",
+   "url": "https://linkareer.com/activity/363717",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363697",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "2026 기후테크·기후에너지환경 R&D 컨퍼런스 개최!",
+   "org": "주식회사 일리스트",
+   "url": "https://linkareer.com/activity/363697",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363264",
@@ -2980,17 +2850,82 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362683",
+   "id": "링커리어:363776",
    "source": "링커리어",
-   "type": "서포터즈",
-   "title": "대학생 연합 등산 동아리 ‘서울메아리’ 3기",
-   "org": "메아리 서울등산연합동아리",
-   "url": "https://linkareer.com/activity/362683",
+   "type": "공모전",
+   "title": "신월곡1구역 상업시설&공동주택 네이밍 공모전",
+   "org": "신월곡1구역도시환경정비사업조합",
+   "url": "https://linkareer.com/activity/363776",
    "deadline": "2026-11-30",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363773",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "제18회 3·15 청소년 영상제 UCC공모전",
+   "org": "(사)3·15의거기념사업회",
+   "url": "https://linkareer.com/activity/363773",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363760",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2026 귀뚜라미 AI 숏폼 영상 챌린지",
+   "org": "귀뚜라미 보일러",
+   "url": "https://linkareer.com/activity/363760",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363721",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "[이벤트] 롤잉(RoleEng) 인스타 팔로우하고 1개월 구독권 받아가자!!",
+   "org": "인투인미디어",
+   "url": "https://linkareer.com/activity/363721",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363634",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "[현대경제신문] 2027 현대경제신문 신춘문예 공모",
+   "org": "현대경제신문",
+   "url": "https://linkareer.com/activity/363634",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363617",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "[구로구] G구로수호대 기후행동 실천수기 공모전",
+   "org": "구로구",
+   "url": "https://linkareer.com/activity/363617",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363478",
@@ -3110,84 +3045,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362552",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "2026 전국 우리쌤 자랑대회",
-   "org": "교보교육재단",
-   "url": "https://linkareer.com/activity/362552",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362464",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "[Atelier Team] 게임 COLORFLY 스테이지 BGM 공모전",
-   "org": "Atelier Team",
-   "url": "https://linkareer.com/activity/362464",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362196",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "제5회 한국여성작가 회화공모전 & K-WOMEN IN PARIS",
-   "org": "여성신문",
-   "url": "https://linkareer.com/activity/362196",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362190",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "2027 사회정서학습 수업사례 공모전",
-   "org": "유니세프 한국위원회",
-   "url": "https://linkareer.com/activity/362190",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362184",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "제1회 동물사랑 디카시 공모전",
-   "org": "한국디카시인협회 서울북부지회",
-   "url": "https://linkareer.com/activity/362184",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362125",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "[속뜻사전교육출판사] 제22회 속뜻사전 꽃잎달기 사진 콘테스트",
-   "org": "속뜻사전교육출판사",
-   "url": "https://linkareer.com/activity/362125",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363373",
    "source": "링커리어",
    "type": "인턴",
@@ -3214,6 +3071,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363764",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "한국연구재단 창립 50주년 기념 대국민 엠블럼 디자인 공모전",
+   "org": "한국연구재단",
+   "url": "https://linkareer.com/activity/363764",
+   "deadline": "2026-12-01",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:362972",
    "source": "링커리어",
    "type": "공모전",
@@ -3227,17 +3097,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362183",
+   "id": "링커리어:363658",
    "source": "링커리어",
-   "type": "공모전",
-   "title": "[한국체육산업개발(주)] 공공데이터 활용 경진대회",
-   "org": "한국체육산업개발(주)",
-   "url": "https://linkareer.com/activity/362183",
-   "deadline": "2026-12-01",
+   "type": "대외활동",
+   "title": "2026 BEYOND BUSAN CONFERENCE",
+   "org": "BEYOND BUSAN",
+   "url": "https://linkareer.com/activity/363658",
+   "deadline": "2026-12-02",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:362623",
@@ -3266,6 +3136,45 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363781",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "화포천습지 생물다양성 사진 공모전",
+   "org": "김해시",
+   "url": "https://linkareer.com/activity/363781",
+   "deadline": "2026-12-04",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363762",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2027년 목포KR갤러리 전시 작가 대관 공고",
+   "org": "KR갤러리",
+   "url": "https://linkareer.com/activity/363762",
+   "deadline": "2026-12-04",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363649",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "제2회 저상버스 인식개선 사진·AI 이미지 공모전",
+   "org": "부산뇌병변복지관",
+   "url": "https://linkareer.com/activity/363649",
+   "deadline": "2026-12-04",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363329",
    "source": "링커리어",
    "type": "공모전",
@@ -3276,19 +3185,6 @@
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363255",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "[아이디씨티] uGPS™ 숏폼 영상 공모전 (~12/04)",
-   "org": "아이디씨티",
-   "url": "https://linkareer.com/activity/363255",
-   "deadline": "2026-12-04",
-   "location": "",
-   "pay": "",
-   "content": true,
    "first_seen": "2026-11-11"
   },
   {
@@ -3357,6 +3253,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363661",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[한국건설기술인협회] 제2기 청년홍보대사 모집 안내(~12.7.)",
+   "org": "한국건설기술인협회",
+   "url": "https://linkareer.com/activity/363661",
+   "deadline": "2026-12-07",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363366",
    "source": "링커리어",
    "type": "대외활동",
@@ -3409,17 +3318,17 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:363217",
+   "id": "링커리어:363677",
    "source": "링커리어",
-   "type": "대외활동",
-   "title": "두드림 국토대장정 26기 동계 제주 대원모집",
-   "org": "주식회사 두드림플래닛",
-   "url": "https://linkareer.com/activity/363217",
-   "deadline": "2026-12-10",
+   "type": "공모전",
+   "title": "2027 서울국제정원박람회 작가정원 국제공모",
+   "org": "한국가드너협동조합",
+   "url": "https://linkareer.com/activity/363677",
+   "deadline": "2026-12-09",
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:362986",
@@ -3448,6 +3357,32 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363650",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "코딩 몰라도 게임 만들어볼래요? AI 게임 만들기 동아리 ‘만들래?’ 2기 멤버 모집",
+   "org": "만들래",
+   "url": "https://linkareer.com/activity/363650",
+   "deadline": "2026-12-11",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363770",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2026년 장애인식개선 표어공모전 「다름의 가치를 잇다」",
+   "org": "음성군장애인복지관",
+   "url": "https://linkareer.com/activity/363770",
+   "deadline": "2026-12-11",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363346",
    "source": "링커리어",
    "type": "공모전",
@@ -3461,6 +3396,32 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363615",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "국회의원 손솔 대학생 명예보좌관 1기 모집",
+   "org": "국회의원 손솔의원실",
+   "url": "https://linkareer.com/activity/363615",
+   "deadline": "2026-12-13",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363775",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2026년 제3회 AMT AI 작곡대회 – KILLING DANCE 챌린지",
+   "org": "주식회사 프롬프트뱅크",
+   "url": "https://linkareer.com/activity/363775",
+   "deadline": "2026-12-13",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:362992",
    "source": "링커리어",
    "type": "공모전",
@@ -3471,45 +3432,6 @@
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362891",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "일본어 번역 동아리 당고당 4기 모집",
-   "org": "당고당",
-   "url": "https://linkareer.com/activity/362891",
-   "deadline": "2026-12-14",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362188",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "산돌구름 레터링 공모전 「내가 좋아하는 한 글 3」",
-   "org": "산돌",
-   "url": "https://linkareer.com/activity/362188",
-   "deadline": "2026-12-14",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362124",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "[실종아동찾기협회] 제1회 장기실종아동찾기 영상 공모전",
-   "org": "실종아동찾기협회",
-   "url": "https://linkareer.com/activity/362124",
-   "deadline": "2026-12-15",
-   "location": "",
-   "pay": "",
-   "content": true,
    "first_seen": "2026-11-11"
   },
   {
@@ -3526,6 +3448,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363758",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2027 아티스타트 참여 작가 모집",
+   "org": "KT&G 상상마당 부산",
+   "url": "https://linkareer.com/activity/363758",
+   "deadline": "2026-12-20",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363343",
    "source": "링커리어",
    "type": "공모전",
@@ -3536,19 +3471,6 @@
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362093",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "[부산과학기술대학교·KNN] 2026 부산 미래 직업·평생교육 AI 영상 공모전(~12.23)",
-   "org": "위더스콘텐츠",
-   "url": "https://linkareer.com/activity/362093",
-   "deadline": "2026-12-23",
-   "location": "",
-   "pay": "",
-   "content": true,
    "first_seen": "2026-11-11"
   },
   {
@@ -3708,6 +3630,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363593",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[DUBU] AI 대화형 콘텐츠 기획 인턴 모집",
+   "org": "주식회사 두부",
+   "url": "https://linkareer.com/activity/363593",
+   "deadline": "2027-01-21",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363341",
    "source": "링커리어",
    "type": "공모전",
@@ -3796,136 +3731,6 @@
    "location": "",
    "pay": "",
    "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362376",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[하이스 AI] 숏폼 크리에이터 1기 모집 (팔로워 조건 없음)",
-   "org": "뉴런소프트",
-   "url": "https://linkareer.com/activity/362376",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362536",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[아토머스 주식회사] 기획팀 콘텐츠 마케팅 인턴",
-   "org": "아토머스 주식회사",
-   "url": "https://linkareer.com/activity/362536",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362535",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[뷰티셀렉션] [Biodance] 아마존(Amazon) AMD 인턴 (채용연계형)",
-   "org": "뷰티셀렉션",
-   "url": "https://linkareer.com/activity/362535",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362509",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[파파레서피/잉가] 글로벌 MD 인턴 채용 (채용 전환형)",
-   "org": "에이비티아시아",
-   "url": "https://linkareer.com/activity/362509",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362497",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[Assistant] 안전보건센터 업무 보조",
-   "org": "카카오모빌리티",
-   "url": "https://linkareer.com/activity/362497",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362475",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[클래스101] [채용연계형인턴] 비즈니스 빌더(BD)",
-   "org": "클래스101",
-   "url": "https://linkareer.com/activity/362475",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362471",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[클래스101] [채용연계형 인턴] 사업 개발 (Creator Growth)",
-   "org": "클래스101",
-   "url": "https://linkareer.com/activity/362471",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362467",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[미국] 직원수 140명 규모의 만족도 높은 패션회사 핏테크&프로덕션 / 패션 디자이너 모집",
-   "org": "Edgemine, Inc. (DBA. Blu Pepper, Mine Fashion)",
-   "url": "https://linkareer.com/activity/362467",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362459",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[미국] 직원수 86명 규모의 LA 호텔 프론트데스크 채용",
-   "org": "Oxford Palace Hotel",
-   "url": "https://linkareer.com/activity/362459",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362447",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[ANUA 아누아] 한국 글로벌 뷰티 화장품 브랜드 퍼포먼스 마케팅 인턴",
-   "org": "주식회사 더파운더즈",
-   "url": "https://linkareer.com/activity/362447",
-   "deadline": "2027-02-03",
-   "location": "",
-   "pay": "",
-   "content": true,
    "first_seen": "2026-11-11"
   },
   {
@@ -4020,32 +3825,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362753",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "에펙×프프 영상편집 스터디｜영상편집을낉여오너라",
-   "org": "영상편집을낉여오너라",
-   "url": "https://linkareer.com/activity/362753",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362733",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "Rewrite 4기 추가 모집 — 대학생 작문 동아리",
-   "org": "Rewrite",
-   "url": "https://linkareer.com/activity/362733",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362829",
    "source": "링커리어",
    "type": "인턴",
@@ -4078,84 +3857,6 @@
    "title": "[전환형인턴] AI 디자이너",
    "org": "(주)어댑트",
    "url": "https://linkareer.com/activity/362790",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362738",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[더퓨어랩] 일본 퍼포먼스&콘텐츠 마케터 인턴(전환형) 채용",
-   "org": "주식회사 더퓨어랩",
-   "url": "https://linkareer.com/activity/362738",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362727",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[미국] 자동차 부품 제조업의 선두주자 서연이화(HMMA의 1차 협력사) 인디애나 법인 품질관리 모집",
-   "org": "Seoyon E-Hwa Manufacturing",
-   "url": "https://linkareer.com/activity/362727",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362724",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[미국] 종합 전시·공간 디자인 및 제작 전문 기업 Project manager (AUTO CAD 가능자) 모집",
-   "org": "GRID EXHIBITION SERVICES",
-   "url": "https://linkareer.com/activity/362724",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362685",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "신세계인터내셔날 코스메틱 BBW팀 오퍼레이션 인턴 채용",
-   "org": "(주)삼구아이앤씨",
-   "url": "https://linkareer.com/activity/362685",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362671",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "세일즈 운영 인턴",
-   "org": "라포랩스",
-   "url": "https://linkareer.com/activity/362671",
-   "deadline": "2027-02-04",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:362660",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[ANUA] 한국영업팀 전략리서치 단기 인턴",
-   "org": "주식회사 더파운더즈",
-   "url": "https://linkareer.com/activity/362660",
    "deadline": "2027-02-04",
    "location": "",
    "pay": "",
@@ -4605,6 +4306,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363581",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "햄푸샵 서포터즈 1기 모집",
+   "org": "햄푸샵",
+   "url": "https://linkareer.com/activity/363581",
+   "deadline": "2027-02-08",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363472",
    "source": "링커리어",
    "type": "대외활동",
@@ -4956,6 +4670,45 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:363620",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "일본어 번역 맛있게 하는 동아리 당고당4기 모집",
+   "org": "당고당",
+   "url": "https://linkareer.com/activity/363620",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363612",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "다꾸·일상 기록 동아리 [기록상점] 3기 추가 모집",
+   "org": "기록상점",
+   "url": "https://linkareer.com/activity/363612",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363603",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "[피아노 레슨] 초보들을 위한 가벼운 레슨",
+   "org": "피아노 체험",
+   "url": "https://linkareer.com/activity/363603",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "링커리어:363489",
    "source": "링커리어",
    "type": "서포터즈",
@@ -4980,6 +4733,279 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363750",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[트립닷컴] Korea Brand Marketing Intern",
+   "org": "트립닷컴",
+   "url": "https://linkareer.com/activity/363750",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363733",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[신사업] 언니가이드 사업개발 인턴 (체험형)",
+   "org": "(주)힐링페이퍼",
+   "url": "https://linkareer.com/activity/363733",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363731",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[Solution] AI Engineer Intern (체험형)",
+   "org": "주식회사 노타",
+   "url": "https://linkareer.com/activity/363731",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363718",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[경영기획] Recruiting & Culture (체험형 인턴)",
+   "org": "누리미디어",
+   "url": "https://linkareer.com/activity/363718",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363712",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[재무] 국내 회계결산 채용연계형 인턴사원 모집",
+   "org": "주식회사 에이피알",
+   "url": "https://linkareer.com/activity/363712",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363708",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "신세계인터내셔날 글로벌코스메틱 스위스퍼펙션팀 디자인 인턴 채용",
+   "org": "(주)삼구아이앤씨",
+   "url": "https://linkareer.com/activity/363708",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363688",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[신세계/퍼셀] 글로벌 콘텐츠 마케팅 인턴 모집",
+   "org": "(주)삼구아이앤씨",
+   "url": "https://linkareer.com/activity/363688",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363687",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오스타일] [인턴] 데이터 품질 운영(DQ)",
+   "org": "카카오스타일",
+   "url": "https://linkareer.com/activity/363687",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363679",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[하이퍼엑셀] Marketing Designer(인턴) 채용",
+   "org": "하이퍼엑셀",
+   "url": "https://linkareer.com/activity/363679",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363655",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오] 카카오프렌즈 상품 MD_어시스턴트",
+   "org": "카카오",
+   "url": "https://linkareer.com/activity/363655",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363653",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오] 선물하기/톡딜 쇼핑 판매자 정산 운영_어시스턴트",
+   "org": "카카오",
+   "url": "https://linkareer.com/activity/363653",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363648",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오] 식품 CM_어시스턴트",
+   "org": "카카오",
+   "url": "https://linkareer.com/activity/363648",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363646",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오] 카카오프렌즈 SNS 콘텐츠 제작 및 운영관리_어시스턴트",
+   "org": "카카오",
+   "url": "https://linkareer.com/activity/363646",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363643",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오] 카카오톡 선물하기 마케팅_어시스턴트",
+   "org": "카카오",
+   "url": "https://linkareer.com/activity/363643",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363640",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오] 카카오 쇼핑라이브 상품 운영_어시스턴트",
+   "org": "카카오",
+   "url": "https://linkareer.com/activity/363640",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363622",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[미국인턴/뉴저지] 파리바게트(Paris Baguette) - 제빵사 채용",
+   "org": "PB Family, LLC",
+   "url": "https://linkareer.com/activity/363622",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363611",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[인턴/강남] 스킨푸드 일본 인플루언서·콘텐츠 마케팅 (3개월)",
+   "org": "(주)스킨푸드",
+   "url": "https://linkareer.com/activity/363611",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363584",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[미국] 자동차 도어시스템 및 자동차 부품 전문기업 광진그룹 미국법인 생산관리 모집",
+   "org": "Kwang Jin America, Inc.",
+   "url": "https://linkareer.com/activity/363584",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363578",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[도루코] (상시) AI 개발 및 PoC 엔지니어 인턴사원(6개월) 상시채용",
+   "org": "도루코",
+   "url": "https://linkareer.com/activity/363578",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363577",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[미국] 미국 라스베이거스 Beauty Supplies company 매장운영 / POS매출 분석 / 구매&재고관리 / 마케팅&이벤트 기획모집",
+   "org": "LUX BEAUTY SUPERSTORE",
+   "url": "https://linkareer.com/activity/363577",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363554",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[라운드랩] 글로벌 마케팅 인턴",
+   "org": "서린컴퍼니",
+   "url": "https://linkareer.com/activity/363554",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-12"
   },
   {
    "id": "링커리어:363534",
@@ -5099,19 +5125,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "링커리어:362185",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "GoodNovel 제2회 대형 웹소설 공모전｜WRITE YOUR WORLD",
-   "org": "GoodNovel (굿노벨)",
-   "url": "https://linkareer.com/activity/362185",
-   "deadline": "2027-05-01",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362700",
    "source": "링커리어",
    "type": "공모전",
@@ -5123,6 +5136,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363609",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2027년 제14회 LS ELECTRIC배 전국수중사진공모전",
+   "org": "(사)대한수중·핀수영협회",
+   "url": "https://linkareer.com/activity/363609",
+   "deadline": "2027-08-31",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-12"
   }
  ]
 }
