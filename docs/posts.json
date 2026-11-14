@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T02:26+09:00",
+ "updated_at": "2026-11-14T10:53+09:00",
  "sources": {
   "사람인": {
    "ok": false,
@@ -11,7 +11,7 @@
   },
   "알바몬/알바천국": {
    "ok": true,
-   "count": 0
+   "count": 1
   }
  },
  "posts": [
@@ -417,6 +417,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "알바몬:120262238",
+   "source": "알바몬",
+   "type": "알바",
+   "title": "광주우편집중국 초단기 근로자 모집(11.16.(월)/11.17.(화))",
+   "org": "광주우편집중국",
+   "url": "https://www.albamon.com/jobs/detail/120262238",
+   "deadline": "2026-11-16",
+   "location": "광주 광산구",
+   "pay": "시급 10,320 원 아래 상세모집요강 확인하세요 2026 년 최저시급 10,320 원 급여계산기",
+   "content": true,
+   "first_seen": "2026-11-14"
   },
   {
    "id": "링커리어:363856",
@@ -2902,19 +2915,6 @@
    "first_seen": "2026-11-14"
   },
   {
-   "id": "링커리어:364133",
-   "source": "링커리어",
-   "type": "인턴",
-   "title": "[AI-Native Sales] 금융 솔루션 전문가 (채용연계형 인턴)",
-   "org": "뱅크샐러드금융서비스",
-   "url": "https://linkareer.com/activity/364133",
-   "deadline": "2026-11-30",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-14"
-  },
-  {
    "id": "링커리어:363956",
    "source": "링커리어",
    "type": "인턴",
@@ -4499,6 +4499,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "링커리어:363646",
+   "source": "링커리어",
+   "type": "인턴",
+   "title": "[카카오] 카카오프렌즈 SNS 콘텐츠 제작 및 운영관리_어시스턴트",
+   "org": "카카오",
+   "url": "https://linkareer.com/activity/363646",
+   "deadline": "2027-02-09",
+   "location": "",
+   "pay": "",
+   "content": true,
+   "first_seen": "2026-11-14"
   },
   {
    "id": "링커리어:363958",
