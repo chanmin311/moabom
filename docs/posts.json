@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T10:53+09:00",
+ "updated_at": "2026-11-15T01:11+09:00",
  "sources": {
   "사람인": {
    "ok": false,
@@ -15,19 +15,6 @@
   }
  },
  "posts": [
-  {
-   "id": "링커리어:363964",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "NCS 클라우드 직무 역량 기초 과정 “취업준비생을 위한 데이터 클라우드 실무교육”",
-   "org": "한국프로세스혁신협회",
-   "url": "https://linkareer.com/activity/363964",
-   "deadline": "2026-11-14",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-13"
-  },
   {
    "id": "링커리어:364293",
    "source": "링커리어",
@@ -100,19 +87,6 @@
    "title": "취업사이다 유튜브 채널 크루 1기 모집",
    "org": "렛유인에듀",
    "url": "https://linkareer.com/activity/363175",
-   "deadline": "2026-11-15",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363093",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "[오르조 크리에이터 크루 1기] 한 달에 “최소 105만원” 이상 혜택, 수치화된 성과 포폴은 체계적으로",
-   "org": "주식회사 슬링",
-   "url": "https://linkareer.com/activity/363093",
    "deadline": "2026-11-15",
    "location": "",
    "pay": "",
@@ -328,19 +302,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "id": "링커리어:363422",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "발발떨. 발표는 발표고, 나는 떨려요",
-   "org": "발발떨",
-   "url": "https://linkareer.com/activity/363422",
-   "deadline": "2026-11-16",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:362875",
    "source": "링커리어",
    "type": "서포터즈",
@@ -417,19 +378,6 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-12"
-  },
-  {
-   "id": "알바몬:120262238",
-   "source": "알바몬",
-   "type": "알바",
-   "title": "광주우편집중국 초단기 근로자 모집(11.16.(월)/11.17.(화))",
-   "org": "광주우편집중국",
-   "url": "https://www.albamon.com/jobs/detail/120262238",
-   "deadline": "2026-11-16",
-   "location": "광주 광산구",
-   "pay": "시급 10,320 원 아래 상세모집요강 확인하세요 2026 년 최저시급 10,320 원 급여계산기",
-   "content": true,
-   "first_seen": "2026-11-14"
   },
   {
    "id": "링커리어:363856",
@@ -521,6 +469,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:364458",
+   "source": "링커리어",
+   "type": "공모전",
+   "title": "2026 동남권 이노베이션 해커톤 ICT INNOHACK",
+   "org": "주식회사 패스파인더",
+   "url": "https://linkareer.com/activity/364458",
+   "deadline": "2026-11-17",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-15"
   },
   {
    "id": "링커리어:363779",
@@ -659,19 +620,6 @@
    "title": "[버츠비] 버츠비 서포터즈 '버티즈(Burtie-Z)' 모집",
    "org": "버츠비",
    "url": "https://linkareer.com/activity/363352",
-   "deadline": "2026-11-18",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363112",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "2026 아주경제 국방방산포럼 서포터즈 모집",
-   "org": "주식회사 아주뉴스코퍼레이션",
-   "url": "https://linkareer.com/activity/363112",
    "deadline": "2026-11-18",
    "location": "",
    "pay": "",
@@ -1184,6 +1132,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": "링커리어:363964",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "NCS 클라우드 직무 역량 기초 과정 “취업준비생을 위한 데이터 클라우드 실무교육” (11/21)",
+   "org": "한국프로세스혁신협회",
+   "url": "https://linkareer.com/activity/363964",
+   "deadline": "2026-11-21",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-13"
   },
   {
    "id": "링커리어:363674",
@@ -1719,6 +1680,19 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": "링커리어:364472",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "방배ART유스센터 놀이문화행사 <잔소리OFF, 놀이ON> 자원활동가 모집",
+   "org": "서초구립방배유스센터",
+   "url": "https://linkareer.com/activity/364472",
+   "deadline": "2026-11-25",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-15"
+  },
+  {
    "id": "링커리어:364382",
    "source": "링커리어",
    "type": "대외활동",
@@ -1966,6 +1940,19 @@
    "first_seen": "2026-11-13"
   },
   {
+   "id": "링커리어:364444",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[모집] 아이들에게 산타가 되어주세요! 「몰래산타」 대학생 봉사자 모집",
+   "org": "대방청소년센터",
+   "url": "https://linkareer.com/activity/364444",
+   "deadline": "2026-11-26",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-15"
+  },
+  {
    "id": "링커리어:364151",
    "source": "링커리어",
    "type": "대외활동",
@@ -1977,6 +1964,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-13"
+  },
+  {
+   "id": "링커리어:364451",
+   "source": "링커리어",
+   "type": "서포터즈",
+   "title": "[Book&Socialing] 싱글남녀 연애이야기 50기",
+   "org": "협성문화재단",
+   "url": "https://linkareer.com/activity/364451",
+   "deadline": "2026-11-26",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-15"
   },
   {
    "id": "링커리어:364093",
@@ -2076,19 +2076,6 @@
    "title": "제12기 대구어린이기자단 모집",
    "org": "대구광역시",
    "url": "https://linkareer.com/activity/363172",
-   "deadline": "2026-11-27",
-   "location": "",
-   "pay": "",
-   "content": false,
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363104",
-   "source": "링커리어",
-   "type": "대외활동",
-   "title": "2026 연세노벨위크 문학 심포지엄 [문학의 힘 : 상상력은 삶을 어디로 밀고 가는가]",
-   "org": "(주)모든커뮤니케이션",
-   "url": "https://linkareer.com/activity/363104",
    "deadline": "2026-11-27",
    "location": "",
    "pay": "",
@@ -2393,6 +2380,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-13"
+  },
+  {
+   "id": "링커리어:364448",
+   "source": "링커리어",
+   "type": "대외활동",
+   "title": "[모집] 시립청소년문화교류센터「2027 시드니 글로벌 인재양성 프로그램」 모집!",
+   "org": "시립청소년문화교류센터",
+   "url": "https://linkareer.com/activity/364448",
+   "deadline": "2026-11-30",
+   "location": "",
+   "pay": "",
+   "content": false,
+   "first_seen": "2026-11-15"
   },
   {
    "id": "링커리어:364278",
@@ -3186,19 +3186,6 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-11"
-  },
-  {
-   "id": "링커리어:363255",
-   "source": "링커리어",
-   "type": "공모전",
-   "title": "[아이디씨티] uGPS™ 숏폼 영상 공모전 (~12/04)",
-   "org": "아이디씨티",
-   "url": "https://linkareer.com/activity/363255",
-   "deadline": "2026-12-04",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-13"
   },
   {
    "id": "링커리어:363170",
@@ -5138,19 +5125,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "id": "링커리어:363357",
-   "source": "링커리어",
-   "type": "서포터즈",
-   "title": "[디자인 초보 환영] 포토샵 스터디 누끼의민족 6기",
-   "org": "포토샵 스터디 [누끼의민족]",
-   "url": "https://linkareer.com/activity/363357",
-   "deadline": "2027-02-14",
-   "location": "",
-   "pay": "",
-   "content": true,
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "링커리어:363444",
    "source": "링커리어",
    "type": "공모전",
@@ -5201,6 +5175,19 @@
    "pay": "",
    "content": false,
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "알바천국:148055831",
+   "source": "알바천국",
+   "type": "알바",
+   "title": "[롯데백화점 더콘란샵 잠실점] 프리미엄 리빙 편집샵 아르바이트 채용",
+   "org": "롯데백화점 컨텐츠부문 콘란팀 잠실점",
+   "url": "https://www.alba.co.kr/job/Detail?adid=148055831",
+   "deadline": null,
+   "location": "서울 송파구",
+   "pay": "시급 10,400 원 식비(식사)지원 (회사내규에 따름) 2026년 최저시급 10,320원 급여계산기",
+   "content": true,
+   "first_seen": "2026-11-15"
   }
  ]
 }
