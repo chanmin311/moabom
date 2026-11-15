@@ -29,6 +29,7 @@
   .tag{font-size:12px;font-weight:700;padding:3px 8px;border-radius:6px;background:#f0ede6;color:var(--muted)}
   .tag.new{background:var(--accent);color:#fff}
   .tag.ct{background:#eef3ff;color:#3155b5}
+  .tag.st{background:#e9f6ef;color:#1f7a4d}
   .dday{font-size:13px;font-weight:900;white-space:nowrap}
   .dday.hot{color:var(--accent)}
   .title{font-size:16px;font-weight:700;line-height:1.4;margin:0;word-break:keep-all}
@@ -40,6 +41,21 @@
   .src{font-size:12px;color:var(--muted)}
   .star{background:none;border:0;font-size:20px;cursor:pointer;line-height:1;color:#c9c2b2;padding:0 0 0 8px}
   .star.on{color:#f5a623}
+  .reel-btn{width:100%;border:0;border-radius:14px;padding:13px;margin-bottom:14px;font:inherit;font-weight:700;font-size:15px;background:var(--ink);color:#fff;cursor:pointer}
+  .reel{background:#fff;border:1px solid var(--line);border-radius:16px;padding:16px;margin-bottom:16px;display:none}
+  .reel.show{display:block}
+  .reel h2{font-size:17px;margin:0 0 4px}
+  .reel .desc{font-size:13px;color:var(--muted);margin:0 0 12px;line-height:1.5}
+  .reel .ctrl{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+  .reel select{border:1px solid var(--line);border-radius:10px;padding:8px;font:inherit;font-size:14px;background:#fff}
+  .pick{display:flex;gap:10px;padding:10px 0;border-top:1px solid var(--line)}
+  .pick .no{font-weight:900;font-size:18px;color:var(--accent);width:22px;flex:none}
+  .pick .t{font-weight:700;font-size:14px;line-height:1.4}
+  .pick .m{font-size:12px;color:var(--muted);margin-top:3px;line-height:1.5}
+  .pick .m b{color:var(--ink)}
+  .script{white-space:pre-wrap;background:#faf8f3;border:1px solid var(--line);border-radius:12px;padding:12px;font-size:13px;line-height:1.6;margin:12px 0 8px}
+  .copy{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font:inherit;font-size:13px;font-weight:700;cursor:pointer}
+  .prep{font-size:12px;color:var(--muted);margin-top:10px;line-height:1.6}
   .empty{text-align:center;color:var(--muted);padding:60px 0;grid-column:1/-1}
 </style>
 </head>
@@ -48,6 +64,26 @@
   <div class="logo">모아<span>봄</span></div>
   <p class="sub" id="updated">불러오는 중…</p>
   <div id="warn"></div>
+
+  <button class="reel-btn" id="reelBtn">🎥 이번 주 릴스 소재 뽑기</button>
+  <section class="reel" id="reel">
+    <h2>이번 주 릴스 소재</h2>
+    <p class="desc">릴스를 올리는 날 기준으로, 보는 사람이 <b>지금 준비를 시작해야 제때 지원할 수 있는</b> 공고만 골랐어요. 너무 촉박한 건 빼고, 아직 여유가 많은 건 다음 주로 미뤄요.</p>
+    <div class="ctrl">
+      <select id="rDay">
+        <option value="0">오늘 게시</option><option value="1" selected>내일 게시</option>
+        <option value="2">모레 게시</option><option value="3">3일 뒤 게시</option>
+      </select>
+      <select id="rTheme">
+        <option value="all">전체</option><option value="content">🎬 콘텐츠 관련</option><option value="student">🎓 재학생 가능</option>
+      </select>
+      <select id="rN"><option>3</option><option selected>5</option><option>7</option></select>
+    </div>
+    <div id="rList"></div>
+    <div class="script" id="rScript"></div>
+    <button class="copy" id="rCopy">대본 복사</button>
+    <div class="prep" id="rPrep"></div>
+  </section>
 
   <div class="search">
     <input id="q" type="search" placeholder="회사명, 직무, 키워드 검색">
@@ -80,7 +116,7 @@ const todayStr = () => { const d=new Date(); d.setMinutes(d.getMinutes()-d.getTi
 const daysBetween = (a,b) => Math.round((new Date(b+'T00:00:00')-new Date(a+'T00:00:00'))/86400000);
 
 function renderChips(){
-  const all=['전체','🆕 새 공고','🎬 콘텐츠','⭐ 관심',...TYPES];
+  const all=['전체','🆕 새 공고','🎬 콘텐츠','🎓 재학생 가능','⭐ 관심',...TYPES];
   $('#chips').innerHTML = all.map(c=>`<button class="chip ${state.chip===c?'on':''}" data-c="${c}">${c}</button>`).join('');
 }
 
@@ -91,6 +127,7 @@ function render(){
     const c=state.chip;
     if(c==='🆕 새 공고' && daysBetween(p.first_seen,t)>1) return false;
     if(c==='🎬 콘텐츠' && !p.content) return false;
+    if(c==='🎓 재학생 가능' && !p.student) return false;
     if(c==='⭐ 관심' && !stars.has(p.id)) return false;
     if(TYPES.includes(c) && p.type!==c) return false;
     if(q && !(p.title+' '+p.org+' '+p.location+' '+p.type).toLowerCase().includes(q)) return false;
@@ -111,6 +148,7 @@ function render(){
           ${isNew?'<span class="tag new">NEW</span>':''}
           <span class="tag">${esc(p.type)}</span>
           ${p.content?'<span class="tag ct">콘텐츠</span>':''}
+          ${p.student?'<span class="tag st">재학생 OK</span>':''}
         </div>
         <span class="dday ${d!==null&&d<=3?'hot':''}">${label}</span>
       </div>
@@ -131,6 +169,87 @@ $('#sort').onchange=e=>{state.sort=e.target.value; render();};
 $('#list').onclick=e=>{
   const s=e.target.dataset.star; if(!s) return;
   stars.has(s)?stars.delete(s):stars.add(s); store.set('moa_stars',[...stars]); render();
+};
+
+// ───────── 릴스 소재 뽑기 ─────────
+// 유형별 '지원 준비에 필요한 기간(일)'. 마음대로 바꿔도 돼요.
+const PREP = {'알바':2, '서포터즈':5, '대외활동':5, '인턴':7, '공모전':14};
+const PREP_WHY = {'알바':'간단 지원서', '서포터즈':'자소서·SNS 계정 정리', '대외활동':'자소서', '인턴':'자소서·포트폴리오', '공모전':'작품 제작'};
+const WINDOW = 7;   // 게시일부터 7일 안에 '준비를 시작해야 하는' 공고만
+const addDays = (d,n) => { const x=new Date(d+'T00:00:00'); x.setDate(x.getDate()+n); const y=new Date(x); y.setMinutes(y.getMinutes()-y.getTimezoneOffset()); return y.toISOString().slice(0,10); };
+const md = d => `${+d.slice(5,7)}/${+d.slice(8,10)}`;
+const shortTitle = t => { t=t.replace(/\[[^\]]*\]|\([^)]*\)/g,' ').replace(/\s+/g,' ').trim(); return t.length>30 ? t.slice(0,29)+'…' : t; };
+
+function pickReel(){
+  const postDate = addDays(todayStr(), +$('#rDay').value);
+  const theme = $('#rTheme').value, n = +$('#rN').value;
+  const okTheme = p => theme==='all' || (theme==='content' && p.content) || (theme==='student' && p.student);
+  const cands = [];
+  for(const p of POSTS){
+    if(!okTheme(p)) continue;
+    const prep = PREP[p.type] ?? 5;
+    if(p.deadline){
+      const left = daysBetween(postDate, p.deadline);
+      if(left < prep) continue;                       // 보는 사람이 준비할 시간이 부족
+      const slack = left - prep;                      // 준비 시작까지 남은 여유
+      if(slack > WINDOW) continue;                    // 아직 여유 많음 → 다음 주 소재
+      const score = (WINDOW - slack) + (p.content?3:0) + (p.student?2:0) + (daysBetween(p.first_seen,todayStr())<=3?1:0);
+      cands.push({p, prep, left, startBy: addDays(p.deadline,-prep), score});
+    }
+  }
+  cands.sort((a,b)=>b.score-a.score);
+  // 유형이 한쪽으로 쏠리지 않게: 유형당 최대 2개, 같은 회사 중복 X
+  const picked=[], perType={}, orgs=new Set();
+  for(const c of cands){
+    if(picked.length>=n) break;
+    if((perType[c.p.type]||0)>=2 || orgs.has(c.p.org)) continue;
+    picked.push(c); perType[c.p.type]=(perType[c.p.type]||0)+1; orgs.add(c.p.org);
+  }
+  // 모자라면 상시모집 알바로 채우기
+  for(const p of POSTS){
+    if(picked.length>=n) break;
+    if(p.deadline || p.type!=='알바' || !okTheme(p) || orgs.has(p.org)) continue;
+    picked.push({p, prep:PREP['알바'], left:null, startBy:null, score:0}); orgs.add(p.org);
+  }
+  picked.sort((a,b)=>(a.startBy||'9')<(b.startBy||'9')?-1:1);   // 준비 시작이 급한 순
+  return {picked, postDate, theme};
+}
+
+function renderReel(){
+  const {picked, postDate, theme} = pickReel();
+  if(!picked.length){
+    $('#rList').innerHTML='<p class="desc">조건에 맞는 공고가 없어요. 테마나 게시일을 바꿔보세요.</p>';
+    $('#rScript').textContent=''; $('#rPrep').textContent=''; return;
+  }
+  $('#rList').innerHTML = picked.map((c,i)=>`<div class="pick"><div class="no">${i+1}</div><div>
+    <div class="t">${esc(c.p.org)} · ${esc(shortTitle(c.p.title))}</div>
+    <div class="m">${esc(c.p.type)} · ${c.left===null?'상시모집':`${md(c.p.deadline)} 마감 (게시일 기준 D-${c.left})`}<br>
+    준비 ${c.prep}일(${PREP_WHY[c.p.type]||'지원서'}) → ${c.startBy?`<b>${md(c.startBy)}까지 준비 시작</b>`:'바로 지원 가능'}
+    · <a href="${esc(c.p.url)}" target="_blank" rel="noopener">원문</a></div></div></div>`).join('');
+
+  const label = {all:'', content:'콘텐츠 ', student:'재학생 가능 '}[theme];
+  const tags = new Set(['#대학생', '#대외활동추천']);
+  picked.forEach(c=>tags.add({'알바':'#대학생알바','서포터즈':'#서포터즈','대외활동':'#대외활동','인턴':'#대학생인턴','공모전':'#공모전'}[c.p.type]||''));
+  if(theme==='content') tags.add('#영상편집알바');
+  const lines = [
+    `[훅 0~2초] 이번 주 안에 준비 시작 안 하면 놓치는 ${label}공고 ${picked.length}개`,
+    '',
+    ...picked.map((c,i)=>`${i+1}. ${c.p.org} ${shortTitle(c.p.title)}\n   → ${c.left===null?'상시모집, 바로 지원 가능':`${md(c.p.deadline)} 마감 · ${c.startBy?md(c.startBy):''}까지 준비 시작 (${PREP_WHY[c.p.type]||'지원서'} ${c.prep}일)`}`),
+    '',
+    '[마무리] 저장해두고 하나씩 챙기세요. 원문 링크는 프로필에!',
+    '',
+    [...tags].filter(Boolean).join(' ')
+  ];
+  $('#rScript').textContent = lines.join('\n');
+  $('#rPrep').textContent = `게시일 ${md(postDate)} 기준 · 준비기간: ` + Object.entries(PREP).map(([k,v])=>`${k} ${v}일`).join(', ');
+}
+
+$('#reelBtn').onclick=()=>{ const r=$('#reel'); r.classList.toggle('show'); if(r.classList.contains('show')){ renderReel(); r.scrollIntoView({behavior:'smooth'}); } };
+['#rDay','#rTheme','#rN'].forEach(id=>$(id).onchange=renderReel);
+$('#rCopy').onclick=async()=>{
+  try{ await navigator.clipboard.writeText($('#rScript').textContent); $('#rCopy').textContent='복사됨 ✓'; }
+  catch(e){ $('#rCopy').textContent='길게 눌러 직접 복사해주세요'; }
+  setTimeout(()=>$('#rCopy').textContent='대본 복사',1500);
 };
 
 fetch('posts.json',{cache:'no-store'}).then(r=>r.json()).then(data=>{

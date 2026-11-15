@@ -96,6 +96,9 @@ def parse_detail(site: str, source_id: str, html: str) -> dict | None:
             title = title.removesuffix("- 알바천국").strip()
     if not title:
         return None
+    edu = f.get("학력") or f.get("학력조건") or jp.get("educationRequirements") or ""
+    if isinstance(edu, dict):
+        edu = edu.get("credentialCategory", "")
     deadline_text = f.get("모집마감") or f.get("마감일") or jp.get("validThrough")
     return make_post(
         source=SITES[site]["name"], source_id=source_id, type="알바",
@@ -104,6 +107,7 @@ def parse_detail(site: str, source_id: str, html: str) -> dict | None:
         deadline=text_to_date(deadline_text),
         location=f.get("근무지") or f.get("근무지역") or _location(jp),
         pay=re.sub(r"(\d[\d,]*\s*원).*", r"\1", f.get("급여") or _pay(jp), flags=re.S),
+        edu=str(edu),
     )
 
 

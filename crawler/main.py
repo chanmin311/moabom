@@ -19,6 +19,24 @@ SOURCES = {"saramin": ("사람인", saramin), "linkareer": ("링커리어", link
 ALBA_NAMES = {"알바몬", "알바천국"}
 
 
+STUDENT_TYPES = {"대외활동", "서포터즈", "공모전"}   # 링커리어 기준, 대부분 대학생 대상
+STUDENT_WORDS = ["재학", "휴학", "대학생", "학력무관", "학력 무관", "학생가능", "학생 가능", "졸업예정"]
+
+
+def is_student_ok(p: dict, cfg: dict) -> bool:
+    """재학생도 지원할 수 있어 보이는 공고인지 (제목·학력조건 기준 추정)."""
+    words = cfg.get("student_keywords") or STUDENT_WORDS
+    if any(w in p["title"] for w in words):
+        return True
+    edu = p.get("edu", "")
+    if edu:
+        if any(w in edu for w in ["무관", "고등학교", "고졸", "중학교"]) or any(w in edu for w in words):
+            return True
+        if "졸업" in edu or "대졸" in edu or "석사" in edu or "박사" in edu:
+            return False
+    return p["type"] in STUDENT_TYPES
+
+
 def _norm(s: str) -> str:
     return re.sub(r"[\W_]+", "", s.lower())
 
@@ -57,6 +75,7 @@ def merge(fresh: dict[str, list], failed: set[str], previous: dict, cfg: dict) -
             continue                                   # 중복
         seen_url.add(p["url"]); seen_key.add(key)
         p = dict(p)
+        p["student"] = is_student_ok(p, cfg)
         p["content"] = any(k.lower() in text.lower() for k in content_kw)
         p["first_seen"] = first_seen.get(p["id"], today)
         out.append(p)

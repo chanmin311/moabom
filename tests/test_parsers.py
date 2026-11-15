@@ -92,3 +92,20 @@ def test_merge_rules():
 def test_error_hides_api_key():
     e = RuntimeError("Max retries exceeded with url: /job-search?access-key=SECRET123&job_type=4")
     assert "SECRET123" not in main._safe_error(e)
+
+
+def test_student_ok():
+    base = lambda **kw: {**mk("1", kw.pop("title", "영상 편집 보조")), **kw}
+    cfg = {}
+    assert main.is_student_ok(base(type="서포터즈"), cfg)                        # 대학생 대상 유형
+    assert main.is_student_ok(base(type="알바", edu="학력무관"), cfg)
+    assert main.is_student_ok(base(type="인턴", edu="고등학교졸업이상"), cfg)
+    assert not main.is_student_ok(base(type="인턴", edu="대학교졸업(4년)이상"), cfg)
+    assert main.is_student_ok(base(type="인턴", edu="대학교졸업(4년)이상", title="재학생 가능 마케팅 인턴"), cfg)
+    assert not main.is_student_ok(base(type="인턴"), cfg)                        # 정보 없음 → 표시 안 함
+
+
+def test_alba_edu_and_entity():
+    h = "<title>회사 채용정보 : 촬영&#183;편집 알바 - 알바천국</title><dl><dt>학력</dt><dd>학력무관</dd></dl>"
+    p = alba.parse_detail("alba", "1", h)
+    assert p["title"] == "촬영·편집 알바" and p["edu"] == "학력무관"

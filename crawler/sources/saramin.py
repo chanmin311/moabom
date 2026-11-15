@@ -23,6 +23,7 @@ def parse(data: dict, type_: str) -> list[dict]:
             deadline=ts_to_date(j.get("expiration-timestamp")),
             location=(pos.get("location") or {}).get("name", "").replace("&gt;", ">"),
             pay=(j.get("salary") or {}).get("name", ""),
+            edu=(pos.get("required-education-level") or {}).get("name", ""),
         ))
     return posts
 

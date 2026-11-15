@@ -1,5 +1,6 @@
 """여러 수집기가 같이 쓰는 도구: HTTP 요청, 날짜 처리, 공고 형식."""
 import atexit
+import html
 import datetime as dt
 import re
 import time
@@ -109,8 +110,8 @@ def text_to_date(text):
 
 
 def make_post(*, source, source_id, type, title, org, url,
-              deadline=None, location="", pay=""):
-    clean = lambda s: re.sub(r"\s+", " ", str(s or "")).strip()
+              deadline=None, location="", pay="", edu=""):
+    clean = lambda s: re.sub(r"\s+", " ", html.unescape(str(s or ""))).strip()
     return {
         "id": f"{source}:{source_id}",
         "source": source,
@@ -121,4 +122,5 @@ def make_post(*, source, source_id, type, title, org, url,
         "deadline": deadline,      # 'YYYY-MM-DD' 또는 None(상시)
         "location": clean(location),
         "pay": clean(pay),
+        "edu": clean(edu),      # 학력 조건 (있을 때만)
     }
