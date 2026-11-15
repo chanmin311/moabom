@@ -9,7 +9,7 @@ delay_seconds: 1.5
 content_keywords: [영상, 편집, 콘텐츠, 컨텐츠, 유튜브, 숏폼, 릴스, SNS, 촬영, 디자인, 카드뉴스, 에디터, 크리에이터, 마케팅, PD]
 
 # 이 단어가 들어간 공고는 전부 버려요
-exclude_keywords: [다단계, 고수익보장, 텔레마케팅]
+exclude_keywords: [다단계, 고수익보장, 텔레마케팅, 국비지원, 교육생]
 
 # ── 사람인 (공식 API, SARAMIN_KEY 필요) ─────────────
 saramin:
