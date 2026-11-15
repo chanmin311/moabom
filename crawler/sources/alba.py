@@ -103,7 +103,7 @@ def parse_detail(site: str, source_id: str, html: str) -> dict | None:
         url=SITES[site]["detail"].format(id=source_id),
         deadline=text_to_date(deadline_text),
         location=f.get("근무지") or f.get("근무지역") or _location(jp),
-        pay=re.split(r"\s*(?:20\d\d년 최저시급|급여계산기)", f.get("급여") or _pay(jp))[0],
+        pay=re.sub(r"(\d[\d,]*\s*원).*", r"\1", f.get("급여") or _pay(jp), flags=re.S),
     )
 
 
