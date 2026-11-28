@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T04:15+09:00",
+ "updated_at": "2026-11-28T12:37+09:00",
  "sources": {
   "사람인": {
    "ok": false,
@@ -11,7 +11,7 @@
   },
   "알바몬/알바천국": {
    "ok": true,
-   "count": 64
+   "count": 68
   }
  },
  "posts": [
@@ -676,21 +676,6 @@
    "first_seen": "2026-11-27"
   },
   {
-   "id": "알바몬:120508722",
-   "source": "알바몬",
-   "type": "알바",
-   "title": "한국경제TV 뉴스제작팀 영상편집자 채용 [충정로역/신입 가능]",
-   "org": "한국경제TV",
-   "url": "https://www.albamon.com/jobs/detail/120508722",
-   "deadline": "2026-11-30",
-   "location": "서울 중구",
-   "pay": "월급 2,420,000 원",
-   "edu": "대학(2,3년제) 졸업 이상",
-   "student": false,
-   "content": true,
-   "first_seen": "2026-11-27"
-  },
-  {
    "id": "알바천국:148400247",
    "source": "알바천국",
    "type": "알바",
@@ -779,6 +764,21 @@
    "student": false,
    "content": false,
    "first_seen": "2026-11-26"
+  },
+  {
+   "id": "알바몬:120387368",
+   "source": "알바몬",
+   "type": "알바",
+   "title": "[주5일/전주KBS] 카메라 보조(촬영보조) 모집",
+   "org": "인터프로셀㈜",
+   "url": "https://www.albamon.com/jobs/detail/120387368",
+   "deadline": "2026-12-01",
+   "location": "전북 전주시",
+   "pay": "월급 2,300,000 원",
+   "edu": "학력무관",
+   "student": true,
+   "content": true,
+   "first_seen": "2026-11-28"
   },
   {
    "id": "링커리어:367503",
@@ -2821,15 +2821,15 @@
    "first_seen": "2026-11-26"
   },
   {
-   "id": "알바몬:120523837",
+   "id": "알바몬:120534265",
    "source": "알바몬",
    "type": "알바",
-   "title": "[홍대입구역/12시 출근] 팟빵 유튜브 신규 프로그램 촬영,편집PD 채용",
-   "org": "팟빵 / ㈜엠제이플렉스",
-   "url": "https://www.albamon.com/jobs/detail/120523837",
-   "deadline": "2026-12-12",
-   "location": "서울 마포구",
-   "pay": "연봉 30,000,000 원",
+   "title": "[대전/주5일] 대전MBC 영상편집 가능자 모집",
+   "org": "인터프로셀㈜",
+   "url": "https://www.albamon.com/jobs/detail/120534265",
+   "deadline": "2026-12-11",
+   "location": "대전 유성구",
+   "pay": "월급 2,270,000 원",
    "edu": "학력무관",
    "student": true,
    "content": true,
@@ -2845,6 +2845,21 @@
    "deadline": "2026-12-12",
    "location": "서울 서초구",
    "pay": "월급 2,410,000 원",
+   "edu": "학력무관",
+   "student": true,
+   "content": true,
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "알바몬:120523837",
+   "source": "알바몬",
+   "type": "알바",
+   "title": "[홍대입구역/12시 출근] 팟빵 유튜브 신규 프로그램 촬영,편집PD 채용",
+   "org": "팟빵 / ㈜엠제이플렉스",
+   "url": "https://www.albamon.com/jobs/detail/120523837",
+   "deadline": "2026-12-12",
+   "location": "서울 마포구",
+   "pay": "연봉 30,000,000 원",
    "edu": "학력무관",
    "student": true,
    "content": true,
@@ -3136,6 +3151,21 @@
    "first_seen": "2026-11-27"
   },
   {
+   "id": "알바몬:120534263",
+   "source": "알바몬",
+   "type": "알바",
+   "title": "[주5일/공영방송국] 카메라 보조(촬영보조) 모집",
+   "org": "인터프로셀㈜",
+   "url": "https://www.albamon.com/jobs/detail/120534263",
+   "deadline": "2026-12-14",
+   "location": "충북 충주시",
+   "pay": "월급 2,173,600 원",
+   "edu": "학력무관",
+   "student": true,
+   "content": true,
+   "first_seen": "2026-11-28"
+  },
+  {
    "id": "링커리어:367212",
    "source": "링커리어",
    "type": "공모전",
@@ -3301,21 +3331,6 @@
    "first_seen": "2026-11-26"
   },
   {
-   "id": "알바몬:120515435",
-   "source": "알바몬",
-   "type": "알바",
-   "title": "[MBN] 유튜브 송출보조 채용 (디지털뉴스부/라이브스트리밍/방송/송출)",
-   "org": "매일방송(MBN)",
-   "url": "https://www.albamon.com/jobs/detail/120515435",
-   "deadline": "2026-12-17",
-   "location": "서울 중구",
-   "pay": "월급 2,220,000 원",
-   "edu": "학력무관",
-   "student": true,
-   "content": true,
-   "first_seen": "2026-11-27"
-  },
-  {
    "id": "알바몬:120516304",
    "source": "알바몬",
    "type": "알바",
@@ -3340,6 +3355,21 @@
    "deadline": "2026-12-17",
    "location": "서울 마포구",
    "pay": "월급 2,250,000 원",
+   "edu": "학력무관",
+   "student": true,
+   "content": true,
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "알바몬:120515435",
+   "source": "알바몬",
+   "type": "알바",
+   "title": "[MBN] 유튜브 송출보조 채용 (디지털뉴스부/라이브스트리밍/방송/송출)",
+   "org": "매일방송(MBN)",
+   "url": "https://www.albamon.com/jobs/detail/120515435",
+   "deadline": "2026-12-17",
+   "location": "서울 중구",
+   "pay": "월급 2,220,000 원",
    "edu": "학력무관",
    "student": true,
    "content": true,
@@ -6674,6 +6704,21 @@
    "student": true,
    "content": true,
    "first_seen": "2026-11-27"
+  },
+  {
+   "id": "알바천국:148244260",
+   "source": "알바천국",
+   "type": "알바",
+   "title": "사진촬영 및 온라인 마케팅 홍보,관리 정직원 모집 (초보가능)",
+   "org": "오토빌",
+   "url": "https://www.alba.co.kr/job/Detail?adid=148244260",
+   "deadline": null,
+   "location": "대구 달서구",
+   "pay": "월급 2,500,000 원",
+   "edu": "고등학교 졸업 이상",
+   "student": true,
+   "content": true,
+   "first_seen": "2026-11-28"
   },
   {
    "id": "알바천국:148198140",
